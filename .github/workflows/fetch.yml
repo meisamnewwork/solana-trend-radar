@@ -1,0 +1,48 @@
+name: Fetch Trending Tokens
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: solana-trend-watchlist-fetch
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch GeckoTerminal trending (1-15 day age filter)
+        run: python fetch_gecko.py
+
+      - name: Fetch DexScreener boosted tokens (1-15 day age filter)
+        run: python fetch_dexscreener.py
+
+      - name: Merge into final watchlist.json
+        run: python merge_watchlists.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add watchlist.json data/gecko_watchlist.json data/dexscreener_watchlist.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update watchlist $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
+            git push
+          fi
