@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Solana Trend Radar</title>
+<style>
+  :root {
+    --bg: #0a0d10;
+    --panel: #10151a;
+    --border: #1f2932;
+    --text-main: #e6ebee;
+    --text-dim: #7c8a94;
+    --accent: #ffb020;
+    --accent-dim: #7a5a1c;
+    --link: #4fd1c5;
+    --green: #35d07f;
+    --red: #ef5b5b;
+    --radius: 6px;
+    --mono: "JetBrains Mono", "Fira Code", Consolas, Menlo, monospace;
+    --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text-main);
+    font-family: var(--sans);
+    min-height: 100vh;
+  }
+
+  header {
+    padding: 28px 24px 20px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .title-block h1 {
+    font-family: var(--mono);
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    margin: 0 0 4px 0;
+    color: var(--accent);
+  }
+
+  .title-block p {
+    margin: 0;
+    color: var(--text-dim);
+    font-size: 13px;
+  }
+
+  .stats {
+    display: flex;
+    gap: 20px;
+    font-family: var(--mono);
+    font-size: 13px;
+    color: var(--text-dim);
+  }
+
+  .stats b {
+    color: var(--text-main);
+    font-size: 16px;
+    display: block;
+    font-weight: 600;
+  }
+
+  main {
+    padding: 20px 24px 60px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  .table-wrap {
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow-x: auto;
+    background: var(--panel);
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    white-space: nowrap;
+  }
+
+  thead th {
+    text-align: left;
+    padding: 10px 14px;
+    font-weight: 500;
+    color: var(--text-dim);
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    background: var(--panel);
+    font-size: 12px;
+  }
+
+  tbody td {
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: middle;
+  }
+
+  tbody tr:last-child td { border-bottom: none; }
+
+  tbody tr:hover { background: #141b21; }
+
+  tbody tr.is-new {
+    animation: flashNew 2.5s ease-out 1;
+  }
+
+  @keyframes flashNew {
+    0%   { background: rgba(255, 176, 32, 0.18); }
+    100% { background: transparent; }
+  }
+
+  .token-name {
+    font-weight: 600;
+    color: var(--text-main);
+  }
+
+  .token-symbol {
+    color: var(--text-dim);
+    font-size: 12px;
+    margin-left: 4px;
+  }
+
+  .mono { font-family: var(--mono); }
+
+  .addr {
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--text-dim);
+    cursor: pointer;
+    border-bottom: 1px dashed var(--border);
+  }
+
+  .addr:hover { color: var(--link); border-color: var(--link); }
+
+  .added-ago {
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--text-dim);
+  }
+
+  .links a {
+    color: var(--link);
+    text-decoration: none;
+    font-size: 12px;
+    margin-right: 10px;
+  }
+
+  .badge {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 11px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-right: 4px;
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+  }
+
+  .badge.gecko { color: #7ad0ff; border-color: #2c4f66; }
+  .badge.dex { color: #ffb020; border-color: #7a5a1c; }
+
+  .links a:hover { text-decoration: underline; }
+
+  .empty-state {
+    padding: 60px 20px;
+    text-align: center;
+    color: var(--text-dim);
+  }
+
+  .empty-state .mono { display: block; margin-top: 8px; font-size: 13px; }
+
+  footer {
+    text-align: center;
+    color: var(--text-dim);
+    font-size: 12px;
+    padding: 20px;
+    font-family: var(--mono);
+  }
+
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    background: var(--accent);
+    color: #1a1200;
+    padding: 8px 16px;
+    border-radius: var(--radius);
+    font-family: var(--mono);
+    font-size: 13px;
+    font-weight: 600;
+    opacity: 0;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    pointer-events: none;
+  }
+
+  .toast.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="title-block">
+    <h1>SOLANA TREND RADAR</h1>
+    <p>Solana tokens (launched 1-15 days ago) trending on GeckoTerminal or boosted on DexScreener</p>
+  </div>
+  <div class="stats">
+    <div>Tokens tracked<b id="statCount">–</b></div>
+    <div>Last update<b id="statUpdated">–</b></div>
+  </div>
+</header>
+
+<main>
+  <div class="table-wrap">
+    <table id="watchTable">
+      <thead>
+        <tr>
+          <th>Added</th>
+          <th>Token</th>
+          <th>Contract address</th>
+          <th>Price</th>
+          <th>Market cap</th>
+          <th>Liquidity</th>
+          <th>Age</th>
+          <th>Source</th>
+          <th>Links</th>
+        </tr>
+      </thead>
+      <tbody id="watchBody"></tbody>
+    </table>
+    <div class="empty-state" id="emptyState" style="display:none;">
+      No tokens tracked yet.
+      <span class="mono">watchlist.json is empty — the next scheduled run will populate it.</span>
+    </div>
+  </div>
+  <footer>auto-refreshes every 60s &middot; data via DexScreener's public API</footer>
+</main>
+
+<div class="toast" id="toast">Address copied</div>
+
+<script>
+  const REFRESH_MS = 60000;
+  let knownAddresses = new Set();
+  let firstLoad = true;
+
+  function fmtMoney(n) {
+    if (n === null || n === undefined || isNaN(n)) return '—';
+    n = Number(n);
+    if (n >= 1e9) return '$' + (n / 1e9).toFixed(2) + 'B';
+    if (n >= 1e6) return '$' + (n / 1e6).toFixed(2) + 'M';
+    if (n >= 1e3) return '$' + (n / 1e3).toFixed(1) + 'K';
+    return '$' + n.toFixed(2);
+  }
+
+  function fmtPrice(p) {
+    if (p === null || p === undefined) return '—';
+    const n = Number(p);
+    if (isNaN(n)) return '—';
+    if (n < 0.01) return '$' + n.toFixed(8).replace(/0+$/, '').replace(/\.$/, '');
+    return '$' + n.toFixed(4);
+  }
+
+  function fmtAgo(isoString) {
+    if (!isoString) return '—';
+    const then = new Date(isoString).getTime();
+    const now = Date.now();
+    const diffMin = Math.floor((now - then) / 60000);
+    if (diffMin < 1) return 'just now';
+    if (diffMin < 60) return diffMin + 'm ago';
+    const diffH = Math.floor(diffMin / 60);
+    if (diffH < 24) return diffH + 'h ago';
+    const diffD = Math.floor(diffH / 24);
+    return diffD + 'd ago';
+  }
+
+  function shortAddr(addr) {
+    if (!addr) return '—';
+    return addr.slice(0, 5) + '…' + addr.slice(-4);
+  }
+
+  function fmtAge(days) {
+    if (days === null || days === undefined) return '—';
+    return Number(days).toFixed(1) + 'd';
+  }
+
+  function sourceBadges(sources) {
+    if (!sources || !sources.length) return '—';
+    return sources.map(s => {
+      const cls = s === 'geckoterminal' ? 'gecko' : 'dex';
+      const label = s === 'geckoterminal' ? 'Gecko' : 'DexScr';
+      return `<span class="badge ${cls}">${label}</span>`;
+    }).join('');
+  }
+
+  function showToast(msg) {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 1400);
+  }
+
+  function copyAddr(addr) {
+    navigator.clipboard.writeText(addr).then(() => showToast('Address copied'));
+  }
+
+  async function loadWatchlist() {
+    let data;
+    try {
+      const res = await fetch('watchlist.json?ts=' + Date.now());
+      data = await res.json();
+    } catch (e) {
+      console.error('Failed to load watchlist.json', e);
+      return;
+    }
+
+    const entries = Object.values(data);
+    document.getElementById('statCount').textContent = entries.length;
+    document.getElementById('statUpdated').textContent = new Date().toLocaleTimeString();
+
+    const emptyState = document.getElementById('emptyState');
+    const table = document.getElementById('watchTable');
+    const tbody = document.getElementById('watchBody');
+
+    if (entries.length === 0) {
+      emptyState.style.display = 'block';
+      table.style.display = 'none';
+      return;
+    }
+    emptyState.style.display = 'none';
+    table.style.display = 'table';
+
+    entries.sort((a, b) => new Date(b.added_at_utc) - new Date(a.added_at_utc));
+
+    tbody.innerHTML = '';
+    entries.forEach(t => {
+      const tr = document.createElement('tr');
+      const isNew = !firstLoad && !knownAddresses.has(t.token_address);
+      if (isNew) tr.classList.add('is-new');
+
+      tr.innerHTML = `
+        <td class="added-ago">${fmtAgo(t.added_at_utc)}</td>
+        <td><span class="token-name">${escapeHtml(t.name || t.symbol || '?')}</span><span class="token-symbol">${escapeHtml(t.symbol || '')}</span></td>
+        <td class="addr" title="${escapeHtml(t.token_address)} — click to copy" onclick="copyAddr('${t.token_address}')">${shortAddr(t.token_address)}</td>
+        <td class="mono">${fmtPrice(t.price_usd)}</td>
+        <td class="mono">${fmtMoney(t.market_cap)}</td>
+        <td class="mono">${fmtMoney(t.liquidity_usd)}</td>
+        <td class="mono">${fmtAge(t.age_days_at_last_seen)}</td>
+        <td>${sourceBadges(t.sources)}</td>
+        <td class="links">
+          <a href="${t.dexscreener_url}" target="_blank" rel="noopener">DexScreener</a>
+          <a href="${t.rugcheck_url}" target="_blank" rel="noopener">RugCheck</a>
+        </td>
+      `;
+      tbody.appendChild(tr);
+    });
+
+    knownAddresses = new Set(entries.map(t => t.token_address));
+    firstLoad = false;
+  }
+
+  function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  loadWatchlist();
+  setInterval(loadWatchlist, REFRESH_MS);
+</script>
+
+</body>
+</html>
