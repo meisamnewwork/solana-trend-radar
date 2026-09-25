@@ -86,16 +86,16 @@
     "name": "Uptober",
     "pair_address": "HJHA6AFiUQVR4nUScs7ZAR775427PJtVFqj3kmLgP9WL",
     "launched_at_utc": "2026-09-22T15:41:30+00:00",
-    "age_days_at_last_seen": 2.32,
-    "last_seen_utc": "2026-09-24T23:19:43.714555+00:00",
+    "age_days_at_last_seen": 2.42,
+    "last_seen_utc": "2026-09-25T01:41:19.248307+00:00",
     "boost_amount": null,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 0.0002772,
-    "market_cap": 269608.0,
-    "liquidity_usd": 49132.91,
+    "price_usd": 0.000268,
+    "market_cap": 260665.0,
+    "liquidity_usd": 48510.42,
     "dexscreener_url": "https://dexscreener.com/solana/hjha6afiuqvr4nuscs7zar775427pjtvfqj3kmlgp9wl",
     "rugcheck_url": "https://rugcheck.xyz/tokens/8Vte25yt28L8BfLXm8DrzjSYEyaKX8yry6hRKRmX7FGd",
     "added_at_utc": "2026-09-24T01:20:50.386996+00:00"
@@ -106,16 +106,17 @@
     "name": "Holdoween",
     "pair_address": "Apy5FShcDSLdyYSH4HWgY8zSFj4At8FbKeHZF3D72e9k",
     "launched_at_utc": "2026-09-16T00:57:16+00:00",
-    "age_days_at_last_seen": 8.93,
-    "last_seen_utc": "2026-09-24T23:19:43.714555+00:00",
-    "boost_amount": null,
-    "boost_total_amount": 140.0,
+    "age_days_at_last_seen": 9.03,
+    "last_seen_utc": "2026-09-25T01:41:19.248307+00:00",
+    "boost_amount": 30.0,
+    "boost_total_amount": 130.0,
     "boost_sources": [
+      "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.001154,
-    "market_cap": 1123510.0,
-    "liquidity_usd": 102050.84,
+    "price_usd": 0.001155,
+    "market_cap": 1123964.0,
+    "liquidity_usd": 102584.7,
     "dexscreener_url": "https://dexscreener.com/solana/apy5fshcdsldyysh4hwgy8zsfj4at8fbkehzf3d72e9k",
     "rugcheck_url": "https://rugcheck.xyz/tokens/BxftAowY2dVa2h9KMqDTPk4oMxzU9k6uVbZuoorXpump",
     "added_at_utc": "2026-09-24T01:20:50.386996+00:00"
@@ -279,5 +280,65 @@
     "dexscreener_url": "https://dexscreener.com/solana/6hlorrky3vqpsytzdfvtgtnwnzslm343jxw6xveptkrt",
     "rugcheck_url": "https://rugcheck.xyz/tokens/DFQHUegJWE29Xu3BUxPezqi77uyHURRyxJpdtyvLpump",
     "added_at_utc": "2026-09-24T20:29:18.021410+00:00"
+  },
+  "CXrHj5pPy6vQacDf8svzt5nDvd1ugqFPmn6npMGDpump": {
+    "token_address": "CXrHj5pPy6vQacDf8svzt5nDvd1ugqFPmn6npMGDpump",
+    "symbol": "MDTGA",
+    "name": "Make Dollar Tree Great Again",
+    "pair_address": "FcgY89M9ZFY8hr8uEP6C5nu95eRC9qxESHccj4mWDxUi",
+    "launched_at_utc": "2026-09-23T10:26:57+00:00",
+    "age_days_at_last_seen": 1.63,
+    "last_seen_utc": "2026-09-25T01:41:19.248307+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 9.504e-06,
+    "market_cap": 9504.02,
+    "liquidity_usd": null,
+    "dexscreener_url": "https://dexscreener.com/solana/fcgy89m9zfy8hr8uep6c5nu95erc9qxeshccj4mwdxui",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/CXrHj5pPy6vQacDf8svzt5nDvd1ugqFPmn6npMGDpump",
+    "added_at_utc": "2026-09-25T01:41:19.248307+00:00"
+  },
+  "G2KB6Yvhs2ojSVtQ8AmCLAMR6wLxzAscS8nNERcYtUVD": {
+    "token_address": "G2KB6Yvhs2ojSVtQ8AmCLAMR6wLxzAscS8nNERcYtUVD",
+    "symbol": "LOOMI",
+    "name": "Loomi",
+    "pair_address": "8SrzuBHchAuBmfyWyi9wA38jSSCyJE5jfq7EckXaR3ah",
+    "launched_at_utc": "2026-09-22T23:00:39+00:00",
+    "age_days_at_last_seen": 2.11,
+    "last_seen_utc": "2026-09-25T01:41:19.248307+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 0.0001599,
+    "market_cap": 159924.0,
+    "liquidity_usd": 37345.83,
+    "dexscreener_url": "https://dexscreener.com/solana/8srzubhchaubmfywyi9wa38jsscyje5jfq7eckxar3ah",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/G2KB6Yvhs2ojSVtQ8AmCLAMR6wLxzAscS8nNERcYtUVD",
+    "added_at_utc": "2026-09-25T01:41:19.248307+00:00"
+  },
+  "9Uqpbbpq7EzAtotoQJhRhD9DUnWAQKB2Bzc2ym7J4yzD": {
+    "token_address": "9Uqpbbpq7EzAtotoQJhRhD9DUnWAQKB2Bzc2ym7J4yzD",
+    "symbol": "POLYCAT",
+    "name": "Polymarket Cat",
+    "pair_address": "AcMgAuY1kkBzCcbTGd4YRzp36xtmwCEpotoqEgBmv8W7",
+    "launched_at_utc": "2026-09-22T19:02:09+00:00",
+    "age_days_at_last_seen": 2.28,
+    "last_seen_utc": "2026-09-25T01:41:19.248307+00:00",
+    "boost_amount": 30.0,
+    "boost_total_amount": 30.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 5.1e-05,
+    "market_cap": 51001.0,
+    "liquidity_usd": 20499.54,
+    "dexscreener_url": "https://dexscreener.com/solana/acmgauy1kkbzccbtgd4yrzp36xtmwcepotoqegbmv8w7",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/9Uqpbbpq7EzAtotoQJhRhD9DUnWAQKB2Bzc2ym7J4yzD",
+    "added_at_utc": "2026-09-25T01:41:19.248307+00:00"
   }
 }
