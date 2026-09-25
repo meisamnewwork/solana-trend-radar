@@ -86,16 +86,16 @@
     "name": "Uptober",
     "pair_address": "HJHA6AFiUQVR4nUScs7ZAR775427PJtVFqj3kmLgP9WL",
     "launched_at_utc": "2026-09-22T15:41:30+00:00",
-    "age_days_at_last_seen": 2.86,
-    "last_seen_utc": "2026-09-25T12:13:55.724203+00:00",
+    "age_days_at_last_seen": 3.06,
+    "last_seen_utc": "2026-09-25T17:13:48.363715+00:00",
     "boost_amount": null,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 0.0003023,
-    "market_cap": 294033.0,
-    "liquidity_usd": 52911.8,
+    "price_usd": 0.0003094,
+    "market_cap": 300960.0,
+    "liquidity_usd": 53888.87,
     "dexscreener_url": "https://dexscreener.com/solana/hjha6afiuqvr4nuscs7zar775427pjtvfqj3kmlgp9wl",
     "rugcheck_url": "https://rugcheck.xyz/tokens/8Vte25yt28L8BfLXm8DrzjSYEyaKX8yry6hRKRmX7FGd",
     "added_at_utc": "2026-09-24T01:20:50.386996+00:00"
@@ -106,16 +106,16 @@
     "name": "Holdoween",
     "pair_address": "Apy5FShcDSLdyYSH4HWgY8zSFj4At8FbKeHZF3D72e9k",
     "launched_at_utc": "2026-09-16T00:57:16+00:00",
-    "age_days_at_last_seen": 9.47,
-    "last_seen_utc": "2026-09-25T12:13:55.724203+00:00",
+    "age_days_at_last_seen": 9.68,
+    "last_seen_utc": "2026-09-25T17:13:48.363715+00:00",
     "boost_amount": null,
-    "boost_total_amount": 100.0,
+    "boost_total_amount": 130.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 0.001643,
-    "market_cap": 1599267.0,
-    "liquidity_usd": 125507.88,
+    "price_usd": 0.001794,
+    "market_cap": 1745524.0,
+    "liquidity_usd": 132106.37,
     "dexscreener_url": "https://dexscreener.com/solana/apy5fshcdsldyysh4hwgy8zsfj4at8fbkehzf3d72e9k",
     "rugcheck_url": "https://rugcheck.xyz/tokens/BxftAowY2dVa2h9KMqDTPk4oMxzU9k6uVbZuoorXpump",
     "added_at_utc": "2026-09-24T01:20:50.386996+00:00"
@@ -246,16 +246,16 @@
     "name": " Utility Coin",
     "pair_address": "9dyeuZaENy1TfKwkR4rV8mGZcAWWw4pkubyHBkUG85oZ",
     "launched_at_utc": "2026-09-21T20:35:17+00:00",
-    "age_days_at_last_seen": 3.11,
-    "last_seen_utc": "2026-09-24T23:19:43.714555+00:00",
+    "age_days_at_last_seen": 3.86,
+    "last_seen_utc": "2026-09-25T17:13:48.363715+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted"
     ],
-    "price_usd": 0.000116,
-    "market_cap": 113663.0,
-    "liquidity_usd": 30364.85,
+    "price_usd": 0.0001794,
+    "market_cap": 175760.0,
+    "liquidity_usd": 39043.75,
     "dexscreener_url": "https://dexscreener.com/solana/9dyeuzaeny1tfkwkr4rv8mgzcawww4pkubyhbkug85oz",
     "rugcheck_url": "https://rugcheck.xyz/tokens/CbouD8khLcz1Y1QngvRtQufUimSRKpHkvGn6y1n8pump",
     "added_at_utc": "2026-09-24T20:29:18.021410+00:00"
@@ -379,5 +379,125 @@
     "dexscreener_url": "https://dexscreener.com/solana/9tt3nbwogwjbqh7b3s1hfcqyf7vjhmg8uncxdjtprnh4",
     "rugcheck_url": "https://rugcheck.xyz/tokens/AQVcP67EpMyu4cBZZjqMu91cVsWy1aX98JmcZm1FyY9",
     "added_at_utc": "2026-09-25T12:13:55.724203+00:00"
+  },
+  "3P8XJom5pTEXfgokNCHadSMvioY7ZrGbRZ5geYx8pump": {
+    "token_address": "3P8XJom5pTEXfgokNCHadSMvioY7ZrGbRZ5geYx8pump",
+    "symbol": "$RapCat",
+    "name": "Rap Cat",
+    "pair_address": "HBzr8n6rhuTrWJMi418UNQY7GCbtAbCdE5RFFZgPFeL4",
+    "launched_at_utc": "2026-09-21T18:15:58+00:00",
+    "age_days_at_last_seen": 3.96,
+    "last_seen_utc": "2026-09-25T17:13:48.363715+00:00",
+    "boost_amount": 30.0,
+    "boost_total_amount": 30.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 1.241e-05,
+    "market_cap": 12419.58,
+    "liquidity_usd": null,
+    "dexscreener_url": "https://dexscreener.com/solana/hbzr8n6rhutrwjmi418unqy7gcbtabcde5rffzgpfel4",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/3P8XJom5pTEXfgokNCHadSMvioY7ZrGbRZ5geYx8pump",
+    "added_at_utc": "2026-09-25T17:13:48.363715+00:00"
+  },
+  "FYZcYCHSp8FzNba1UtDZydKKGosmxVNpFBiVuia38AhT": {
+    "token_address": "FYZcYCHSp8FzNba1UtDZydKKGosmxVNpFBiVuia38AhT",
+    "symbol": "MONARK",
+    "name": "MONARK",
+    "pair_address": "GhCGq9qTCBWZvpBY4fzfvxvENWe1syryLuGACgj3Lhvg",
+    "launched_at_utc": "2026-09-13T18:35:40+00:00",
+    "age_days_at_last_seen": 11.94,
+    "last_seen_utc": "2026-09-25T17:13:48.363715+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 0.0001576,
+    "market_cap": 150208.0,
+    "liquidity_usd": 35825.36,
+    "dexscreener_url": "https://dexscreener.com/solana/ghcgq9qtcbwzvpby4fzfvxvenwe1syrylugacgj3lhvg",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/FYZcYCHSp8FzNba1UtDZydKKGosmxVNpFBiVuia38AhT",
+    "added_at_utc": "2026-09-25T17:13:48.363715+00:00"
+  },
+  "ZEtX7MPVZSKjBq6pD72tjb89KGJxSZNWjRqZEdASrXE": {
+    "token_address": "ZEtX7MPVZSKjBq6pD72tjb89KGJxSZNWjRqZEdASrXE",
+    "symbol": "ORCAT",
+    "name": "Orca cat",
+    "pair_address": "Bazv9dXWie182bXcMbD6iEYmSM1BvK9wsRMmK1NaGQdC",
+    "launched_at_utc": "2026-09-17T22:40:18+00:00",
+    "age_days_at_last_seen": 7.77,
+    "last_seen_utc": "2026-09-25T17:13:48.363715+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 0.0001728,
+    "market_cap": 172830.0,
+    "liquidity_usd": 47130.72,
+    "dexscreener_url": "https://dexscreener.com/solana/bazv9dxwie182bxcmbd6ieymsm1bvk9wsrmmk1nagqdc",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/ZEtX7MPVZSKjBq6pD72tjb89KGJxSZNWjRqZEdASrXE",
+    "added_at_utc": "2026-09-25T17:13:48.363715+00:00"
+  },
+  "HuDwEgKxqBLNKHBSFiVh8o5tdfzSBmhKochDqRFYCzVf": {
+    "token_address": "HuDwEgKxqBLNKHBSFiVh8o5tdfzSBmhKochDqRFYCzVf",
+    "symbol": "ZINU",
+    "name": "Anonymous Inu",
+    "pair_address": "782nRjbSR76jqKq7KYNFqyMmn4hbAM4eqydEQ6hzd3P5",
+    "launched_at_utc": "2026-09-16T20:53:59+00:00",
+    "age_days_at_last_seen": 8.85,
+    "last_seen_utc": "2026-09-25T17:13:48.363715+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 1.301e-05,
+    "market_cap": 13013.0,
+    "liquidity_usd": 11683.87,
+    "dexscreener_url": "https://dexscreener.com/solana/782nrjbsr76jqkq7kynfqymmn4hbam4eqydeq6hzd3p5",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/HuDwEgKxqBLNKHBSFiVh8o5tdfzSBmhKochDqRFYCzVf",
+    "added_at_utc": "2026-09-25T17:13:48.363715+00:00"
+  },
+  "B4cqDdBWDf6hgy1rma8u4JpoTnoycDQyg33aR48mfFvE": {
+    "token_address": "B4cqDdBWDf6hgy1rma8u4JpoTnoycDQyg33aR48mfFvE",
+    "symbol": "RUNE",
+    "name": "RuneScape Classic",
+    "pair_address": "5kCLMA7J61yW48EF1MAp54deaQdMWNTSSzbUf1BEge6G",
+    "launched_at_utc": "2026-09-24T03:51:14+00:00",
+    "age_days_at_last_seen": 1.56,
+    "last_seen_utc": "2026-09-25T17:13:48.363715+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 5.781e-05,
+    "market_cap": 57810.0,
+    "liquidity_usd": 17468.31,
+    "dexscreener_url": "https://dexscreener.com/solana/5kclma7j61yw48ef1map54deaqdmwntsszbuf1bege6g",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/B4cqDdBWDf6hgy1rma8u4JpoTnoycDQyg33aR48mfFvE",
+    "added_at_utc": "2026-09-25T17:13:48.363715+00:00"
+  },
+  "zYiF3rA8aWYUuDek3Z3po9NF4V5UDky5nji7Wr6pump": {
+    "token_address": "zYiF3rA8aWYUuDek3Z3po9NF4V5UDky5nji7Wr6pump",
+    "symbol": "BillSmith",
+    "name": "BillSmith",
+    "pair_address": "6PcxDv7eMhKehgvWPii8vRS1VTE9bJaBrgBYsc2c4baM",
+    "launched_at_utc": "2026-09-22T23:22:38+00:00",
+    "age_days_at_last_seen": 2.74,
+    "last_seen_utc": "2026-09-25T17:13:48.363715+00:00",
+    "boost_amount": null,
+    "boost_total_amount": 50.0,
+    "boost_sources": [
+      "top-boosted"
+    ],
+    "price_usd": 0.0001132,
+    "market_cap": 109223.0,
+    "liquidity_usd": 30281.17,
+    "dexscreener_url": "https://dexscreener.com/solana/6pcxdv7emhkehgvwpii8vrs1vte9bjabrgbysc2c4bam",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/zYiF3rA8aWYUuDek3Z3po9NF4V5UDky5nji7Wr6pump",
+    "added_at_utc": "2026-09-25T17:13:48.363715+00:00"
   }
 }
