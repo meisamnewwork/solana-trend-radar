@@ -86,16 +86,16 @@
     "name": "Uptober",
     "pair_address": "HJHA6AFiUQVR4nUScs7ZAR775427PJtVFqj3kmLgP9WL",
     "launched_at_utc": "2026-09-22T15:41:30+00:00",
-    "age_days_at_last_seen": 2.62,
-    "last_seen_utc": "2026-09-25T06:36:38.835252+00:00",
+    "age_days_at_last_seen": 2.86,
+    "last_seen_utc": "2026-09-25T12:13:55.724203+00:00",
     "boost_amount": null,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 0.0002174,
-    "market_cap": 211432.0,
-    "liquidity_usd": 43529.96,
+    "price_usd": 0.0003023,
+    "market_cap": 294033.0,
+    "liquidity_usd": 52911.8,
     "dexscreener_url": "https://dexscreener.com/solana/hjha6afiuqvr4nuscs7zar775427pjtvfqj3kmlgp9wl",
     "rugcheck_url": "https://rugcheck.xyz/tokens/8Vte25yt28L8BfLXm8DrzjSYEyaKX8yry6hRKRmX7FGd",
     "added_at_utc": "2026-09-24T01:20:50.386996+00:00"
@@ -106,16 +106,16 @@
     "name": "Holdoween",
     "pair_address": "Apy5FShcDSLdyYSH4HWgY8zSFj4At8FbKeHZF3D72e9k",
     "launched_at_utc": "2026-09-16T00:57:16+00:00",
-    "age_days_at_last_seen": 9.24,
-    "last_seen_utc": "2026-09-25T06:36:38.835252+00:00",
+    "age_days_at_last_seen": 9.47,
+    "last_seen_utc": "2026-09-25T12:13:55.724203+00:00",
     "boost_amount": null,
-    "boost_total_amount": 130.0,
+    "boost_total_amount": 100.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 0.0009473,
-    "market_cap": 921684.0,
-    "liquidity_usd": 92621.12,
+    "price_usd": 0.001643,
+    "market_cap": 1599267.0,
+    "liquidity_usd": 125507.88,
     "dexscreener_url": "https://dexscreener.com/solana/apy5fshcdsldyysh4hwgy8zsfj4at8fbkehzf3d72e9k",
     "rugcheck_url": "https://rugcheck.xyz/tokens/BxftAowY2dVa2h9KMqDTPk4oMxzU9k6uVbZuoorXpump",
     "added_at_utc": "2026-09-24T01:20:50.386996+00:00"
@@ -359,5 +359,25 @@
     "dexscreener_url": "https://dexscreener.com/solana/ezhmrxzybahyvyne77w3ycjcmsuwkpntjgjnpwne8hlw",
     "rugcheck_url": "https://rugcheck.xyz/tokens/GAdFNQFpwfrvPfMYP8CPGi3AS1g6XNsqZE99w8CWeAmq",
     "added_at_utc": "2026-09-25T06:36:38.835252+00:00"
+  },
+  "AQVcP67EpMyu4cBZZjqMu91cVsWy1aX98JmcZm1FyY9": {
+    "token_address": "AQVcP67EpMyu4cBZZjqMu91cVsWy1aX98JmcZm1FyY9",
+    "symbol": "AQUA",
+    "name": "Aqua",
+    "pair_address": "9TT3NbWogWjbQh7b3s1hfcqYF7VJHmg8uNcXDjtPRnh4",
+    "launched_at_utc": "2026-09-16T09:33:31+00:00",
+    "age_days_at_last_seen": 9.11,
+    "last_seen_utc": "2026-09-25T12:13:55.724203+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 0.001485,
+    "market_cap": 1485500.0,
+    "liquidity_usd": 199456.58,
+    "dexscreener_url": "https://dexscreener.com/solana/9tt3nbwogwjbqh7b3s1hfcqyf7vjhmg8uncxdjtprnh4",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/AQVcP67EpMyu4cBZZjqMu91cVsWy1aX98JmcZm1FyY9",
+    "added_at_utc": "2026-09-25T12:13:55.724203+00:00"
   }
 }
