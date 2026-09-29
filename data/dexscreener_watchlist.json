@@ -1483,5 +1483,46 @@
     "dexscreener_url": "https://dexscreener.com/solana/g8rsvz14jpy64u599nrvhzkza1tdkagnqdualako6zxe",
     "rugcheck_url": "https://rugcheck.xyz/tokens/pwfAeX3kpWpkuumA6iodJxtVcGAen6BkRPToR2VqLp9",
     "added_at_utc": "2026-09-29T06:12:07.455434+00:00"
+  },
+  "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq": {
+    "token_address": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
+    "symbol": "moin",
+    "name": "meme + coin =",
+    "pair_address": "CbR2UL7ktBr8MUUTj3FYcURZerp28GA2p1vPuMeKy1Je",
+    "launched_at_utc": "2026-09-27T20:48:56+00:00",
+    "age_days_at_last_seen": 1.9,
+    "last_seen_utc": "2026-09-29T18:24:38.963309+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 7.567e-05,
+    "market_cap": 73515.0,
+    "liquidity_usd": 28899.55,
+    "dexscreener_url": "https://dexscreener.com/solana/cbr2ul7ktbr8muutj3fycurzerp28ga2p1vpumeky1je",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
+    "added_at_utc": "2026-09-29T18:24:38.963309+00:00"
+  },
+  "6nSM2HxvaetyDrUYjjAUKwgWGi8CGjmboLee7wcHeKN4": {
+    "token_address": "6nSM2HxvaetyDrUYjjAUKwgWGi8CGjmboLee7wcHeKN4",
+    "symbol": "ZSHIB ",
+    "name": "Anonymous Shib",
+    "pair_address": "GUiuqUy3kekuEwkKtvAQqCWjZP3HNHd64vdRiSrVMF3B",
+    "launched_at_utc": "2026-09-27T15:30:15+00:00",
+    "age_days_at_last_seen": 2.12,
+    "last_seen_utc": "2026-09-29T18:24:38.963309+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 20.0,
+    "boost_sources": [
+      "latest-boosted",
+      "latest-boosted"
+    ],
+    "price_usd": 0.0001499,
+    "market_cap": 146932.0,
+    "liquidity_usd": 30903.77,
+    "dexscreener_url": "https://dexscreener.com/solana/guiuquy3kekuewkktvaqqcwjzp3hnhd64vdrisrvmf3b",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/6nSM2HxvaetyDrUYjjAUKwgWGi8CGjmboLee7wcHeKN4",
+    "added_at_utc": "2026-09-29T18:24:38.963309+00:00"
   }
 }
