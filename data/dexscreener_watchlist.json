@@ -187,8 +187,8 @@
     "name": "DerbyDallas",
     "pair_address": "743BjZsRWMirWrjC3x3YRkcef16SP1HK9Q2gzJe9JS7r",
     "launched_at_utc": "2026-09-21T18:31:54+00:00",
-    "age_days_at_last_seen": 7.09,
-    "last_seen_utc": "2026-09-28T20:40:44.232944+00:00",
+    "age_days_at_last_seen": 7.25,
+    "last_seen_utc": "2026-09-29T00:33:12.284683+00:00",
     "boost_amount": null,
     "boost_total_amount": 100.0,
     "boost_sources": [
@@ -1049,16 +1049,16 @@
     "name": "JIAN COIN",
     "pair_address": "DGvB8KyD79wFBJ7Kr7mW54qSfi7Yk3UrhJkcnTSd6frb",
     "launched_at_utc": "2026-09-26T00:06:54+00:00",
-    "age_days_at_last_seen": 2.86,
-    "last_seen_utc": "2026-09-28T20:40:44.232944+00:00",
+    "age_days_at_last_seen": 3.02,
+    "last_seen_utc": "2026-09-29T00:33:12.284683+00:00",
     "boost_amount": null,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 0.0001042,
-    "market_cap": 91551.0,
-    "liquidity_usd": 51810.29,
+    "price_usd": 9.817e-05,
+    "market_cap": 86227.0,
+    "liquidity_usd": 50161.2,
     "dexscreener_url": "https://dexscreener.com/solana/dgvb8kyd79wfbj7kr7mw54qsfi7yk3urhjkcntsd6frb",
     "rugcheck_url": "https://rugcheck.xyz/tokens/BdzaE3T7uU59pBVDBHZVZh3yWrrpo4oPrXdv4nPDpump",
     "added_at_utc": "2026-09-27T00:33:49.749664+00:00"
@@ -1329,16 +1329,16 @@
     "name": "Catching Absolute Tops",
     "pair_address": "7sY6BrhDBkJdcYFrDd1M49hinSXrqk2bzS3rT6Juanch",
     "launched_at_utc": "2026-09-21T15:53:21+00:00",
-    "age_days_at_last_seen": 7.2,
-    "last_seen_utc": "2026-09-28T20:40:44.232944+00:00",
+    "age_days_at_last_seen": 7.36,
+    "last_seen_utc": "2026-09-29T00:33:12.284683+00:00",
     "boost_amount": null,
     "boost_total_amount": 500.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 0.0002436,
-    "market_cap": 243664.0,
-    "liquidity_usd": 43345.32,
+    "price_usd": 0.0002592,
+    "market_cap": 259293.0,
+    "liquidity_usd": 44706.98,
     "dexscreener_url": "https://dexscreener.com/solana/7sy6brhdbkjdcyfrdd1m49hinsxrqk2bzs3rt6juanch",
     "rugcheck_url": "https://rugcheck.xyz/tokens/8erE7RkkoiGYJtCyQdfwMpnNA8cAkY14Xe6RYjjHAdKP",
     "added_at_utc": "2026-09-28T14:28:27.911289+00:00"
@@ -1349,16 +1349,16 @@
     "name": "The Final Act",
     "pair_address": "5Gf7NqZ2ACpiCaGHUn7uaVEJNjVQnGGgAYRHynoHNHDT",
     "launched_at_utc": "2026-09-27T11:51:57+00:00",
-    "age_days_at_last_seen": 1.37,
-    "last_seen_utc": "2026-09-28T20:40:44.232944+00:00",
+    "age_days_at_last_seen": 1.53,
+    "last_seen_utc": "2026-09-29T00:33:12.284683+00:00",
     "boost_amount": null,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 0.0001016,
-    "market_cap": 98818.0,
-    "liquidity_usd": 28426.42,
+    "price_usd": 0.0001109,
+    "market_cap": 107907.0,
+    "liquidity_usd": 29902.11,
     "dexscreener_url": "https://dexscreener.com/solana/5gf7nqz2acpicaghun7uavejnjvqngggayrhynohnhdt",
     "rugcheck_url": "https://rugcheck.xyz/tokens/F1z5FQdToNDLQYJ72grqePaWJrcrf39HR4gaKA57ySUQ",
     "added_at_utc": "2026-09-28T14:28:27.911289+00:00"
@@ -1389,18 +1389,38 @@
     "name": "SocialBags",
     "pair_address": "FhAJpZh2BYH2oafdA6p3BRFqMwRYX9P469sXnLES454F",
     "launched_at_utc": "2026-09-27T16:19:45+00:00",
-    "age_days_at_last_seen": 1.18,
-    "last_seen_utc": "2026-09-28T20:40:44.232944+00:00",
+    "age_days_at_last_seen": 1.34,
+    "last_seen_utc": "2026-09-29T00:33:12.284683+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted"
     ],
-    "price_usd": 1.619e-05,
-    "market_cap": 15315.0,
-    "liquidity_usd": 9581.22,
+    "price_usd": 1.101e-05,
+    "market_cap": 10422.0,
+    "liquidity_usd": 7534.7,
     "dexscreener_url": "https://dexscreener.com/solana/fhajpzh2byh2oafda6p3brfqmwryx9p469sxnles454f",
     "rugcheck_url": "https://rugcheck.xyz/tokens/8C45BmADgZjG3KPCNHCW37XxJujj96A1U8rJb13HWbag",
     "added_at_utc": "2026-09-28T20:40:44.232944+00:00"
+  },
+  "EGTFrUPym8JnEMAddZjuhBkcSGEGTM75qymxUZgTpump": {
+    "token_address": "EGTFrUPym8JnEMAddZjuhBkcSGEGTM75qymxUZgTpump",
+    "symbol": "Lobby",
+    "name": "Hotel Lobby",
+    "pair_address": "B3QKPLFQmioyC5yaAHtkRcrzrtbfdcpZTxcxhWd83Urk",
+    "launched_at_utc": "2026-09-20T09:22:34+00:00",
+    "age_days_at_last_seen": 8.63,
+    "last_seen_utc": "2026-09-29T00:33:12.284683+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 20.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 0.0001536,
+    "market_cap": 146302.0,
+    "liquidity_usd": 41104.83,
+    "dexscreener_url": "https://dexscreener.com/solana/b3qkplfqmioyc5yaahtkrcrzrtbfdcpztxcxhwd83urk",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/EGTFrUPym8JnEMAddZjuhBkcSGEGTM75qymxUZgTpump",
+    "added_at_utc": "2026-09-29T00:33:12.284683+00:00"
   }
 }
