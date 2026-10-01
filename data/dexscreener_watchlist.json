@@ -909,17 +909,16 @@
     "name": "Feels Good Man",
     "pair_address": "8V79sJMPkRuX2EmzBS8uKmfDrCLAbszboC4eJ5Kowvc5",
     "launched_at_utc": "2026-09-18T21:36:50+00:00",
-    "age_days_at_last_seen": 10.36,
-    "last_seen_utc": "2026-09-29T06:12:07.455434+00:00",
+    "age_days_at_last_seen": 12.42,
+    "last_seen_utc": "2026-10-01T07:47:47.180464+00:00",
     "boost_amount": 10.0,
-    "boost_total_amount": 20.0,
+    "boost_total_amount": 10.0,
     "boost_sources": [
-      "latest-boosted",
       "latest-boosted"
     ],
-    "price_usd": 0.001394,
-    "market_cap": 1394599.0,
-    "liquidity_usd": 125770.05,
+    "price_usd": 0.001688,
+    "market_cap": 1688358.0,
+    "liquidity_usd": 142857.42,
     "dexscreener_url": "https://dexscreener.com/solana/8v79sjmpkrux2emzbs8ukmfdrclabszboc4ej5kowvc5",
     "rugcheck_url": "https://rugcheck.xyz/tokens/HgcxVs6kJhPAaGqnPNGaa7zYgNT49hJrLufiqcNMuYZT",
     "added_at_utc": "2026-09-26T22:02:49.282189+00:00"
@@ -1870,16 +1869,18 @@
     "name": "Hallow Inu",
     "pair_address": "FdFVc4hkRieRp9kBKNJpq1FxJYZbqrSi8PRy21MQvR27",
     "launched_at_utc": "2026-09-29T22:35:31+00:00",
-    "age_days_at_last_seen": 1.12,
-    "last_seen_utc": "2026-10-01T01:34:06.024461+00:00",
-    "boost_amount": null,
-    "boost_total_amount": 100.0,
+    "age_days_at_last_seen": 1.38,
+    "last_seen_utc": "2026-10-01T07:47:47.180464+00:00",
+    "boost_amount": 100.0,
+    "boost_total_amount": 300.0,
     "boost_sources": [
+      "latest-boosted",
+      "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0002411,
-    "market_cap": 235117.0,
-    "liquidity_usd": 45303.54,
+    "price_usd": 0.0003098,
+    "market_cap": 302109.0,
+    "liquidity_usd": 52163.23,
     "dexscreener_url": "https://dexscreener.com/solana/fdfvc4hkrierp9kbknjpq1fxjyzbqrsi8pry21mqvr27",
     "rugcheck_url": "https://rugcheck.xyz/tokens/6iAj2oywQMiD9NeyTcW1S7UtG7e3jSK7Ud5ZJDqJpump",
     "added_at_utc": "2026-09-30T22:37:38.434896+00:00"
@@ -1923,5 +1924,46 @@
     "dexscreener_url": "https://dexscreener.com/solana/6yrnaomccebp87atsasfu7hqgjcyssgjrmfkpdzq58th",
     "rugcheck_url": "https://rugcheck.xyz/tokens/8bDGkt7dyBSDFKyAutc3oERtubzE6ebcnxna6QGhpump",
     "added_at_utc": "2026-10-01T01:34:06.024461+00:00"
+  },
+  "3sL58KKh2QdNSfN9VRz8bHGGU5zStdfManVHCTkhpump": {
+    "token_address": "3sL58KKh2QdNSfN9VRz8bHGGU5zStdfManVHCTkhpump",
+    "symbol": "PI",
+    "name": "Pump Inu",
+    "pair_address": "HEs7k4Q6pFKWx5ExpFvxfowoe4YaAfg7ZApeJdbGtPKD",
+    "launched_at_utc": "2026-09-30T06:27:53+00:00",
+    "age_days_at_last_seen": 1.06,
+    "last_seen_utc": "2026-10-01T07:47:47.180464+00:00",
+    "boost_amount": 50.0,
+    "boost_total_amount": 50.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 0.0002701,
+    "market_cap": 260767.0,
+    "liquidity_usd": 54864.18,
+    "dexscreener_url": "https://dexscreener.com/solana/hes7k4q6pfkwx5expfvxfowoe4yaafg7zapejdbgtpkd",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/3sL58KKh2QdNSfN9VRz8bHGGU5zStdfManVHCTkhpump",
+    "added_at_utc": "2026-10-01T07:47:47.180464+00:00"
+  },
+  "WApCdQftZcRUNHN9S2XvmrqeRtRASE3EZxnwuNJpump": {
+    "token_address": "WApCdQftZcRUNHN9S2XvmrqeRtRASE3EZxnwuNJpump",
+    "symbol": "HALLOWINU",
+    "name": "HALLOWINU",
+    "pair_address": "6oFYqfsSqApyhS1XN4VBB9uA5GpdAMp7RjiPMszXbUJi",
+    "launched_at_utc": "2026-09-29T00:27:47+00:00",
+    "age_days_at_last_seen": 2.31,
+    "last_seen_utc": "2026-10-01T07:47:47.180464+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 2.884e-05,
+    "market_cap": 27392.0,
+    "liquidity_usd": 13854.06,
+    "dexscreener_url": "https://dexscreener.com/solana/6ofyqfssqapyhs1xn4vbb9ua5gpdamp7rjipmszxbuji",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/WApCdQftZcRUNHN9S2XvmrqeRtRASE3EZxnwuNJpump",
+    "added_at_utc": "2026-10-01T07:47:47.180464+00:00"
   }
 }
