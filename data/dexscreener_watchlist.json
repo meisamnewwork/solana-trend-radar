@@ -1869,16 +1869,17 @@
     "name": "Hallow Inu",
     "pair_address": "FdFVc4hkRieRp9kBKNJpq1FxJYZbqrSi8PRy21MQvR27",
     "launched_at_utc": "2026-09-29T22:35:31+00:00",
-    "age_days_at_last_seen": 4.06,
-    "last_seen_utc": "2026-10-04T00:02:18.767512+00:00",
-    "boost_amount": null,
-    "boost_total_amount": 200.0,
+    "age_days_at_last_seen": 4.3,
+    "last_seen_utc": "2026-10-04T05:49:13.700071+00:00",
+    "boost_amount": 100.0,
+    "boost_total_amount": 300.0,
     "boost_sources": [
+      "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0004479,
-    "market_cap": 436754.0,
-    "liquidity_usd": 67951.17,
+    "price_usd": 0.0005575,
+    "market_cap": 543689.0,
+    "liquidity_usd": 76794.45,
     "dexscreener_url": "https://dexscreener.com/solana/fdfvc4hkrierp9kbknjpq1fxjyzbqrsi8pry21mqvr27",
     "rugcheck_url": "https://rugcheck.xyz/tokens/6iAj2oywQMiD9NeyTcW1S7UtG7e3jSK7Ud5ZJDqJpump",
     "added_at_utc": "2026-09-30T22:37:38.434896+00:00"
@@ -2727,5 +2728,88 @@
     "dexscreener_url": "https://dexscreener.com/solana/mtvmphun6t7fusy743pact75rsnqvrzyrdf5gm2ieiy",
     "rugcheck_url": "https://rugcheck.xyz/tokens/GWGUDFY1dDxQoAMsWfg6zfhvYNF1toKPHMVT3DFBwMJq",
     "added_at_utc": "2026-10-04T00:02:18.767512+00:00"
+  },
+  "6hTLdzZaaCjmqtn7RtaEMQsCbXT5Pg8q76tRViEGpump": {
+    "token_address": "6hTLdzZaaCjmqtn7RtaEMQsCbXT5Pg8q76tRViEGpump",
+    "symbol": "ABU",
+    "name": "Abu Shalab",
+    "pair_address": "2qWF4dn1JnqhCpAYJQnKVaKezzuUiG4xdnbnCSK1Pgcw",
+    "launched_at_utc": "2026-10-02T22:46:57+00:00",
+    "age_days_at_last_seen": 1.29,
+    "last_seen_utc": "2026-10-04T05:49:13.700071+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 0.0003423,
+    "market_cap": 330671.0,
+    "liquidity_usd": 56410.92,
+    "dexscreener_url": "https://dexscreener.com/solana/2qwf4dn1jnqhcpayjqnkvakezzuuig4xdnbncsk1pgcw",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/6hTLdzZaaCjmqtn7RtaEMQsCbXT5Pg8q76tRViEGpump",
+    "added_at_utc": "2026-10-04T05:49:13.700071+00:00"
+  },
+  "6zzzG49KX5nksnqfogs31dwoMYSHaJXkropKbv1QZVga": {
+    "token_address": "6zzzG49KX5nksnqfogs31dwoMYSHaJXkropKbv1QZVga",
+    "symbol": "Malfoid",
+    "name": "Female Draco Malfoy",
+    "pair_address": "6wXTJaLNN3GCUJajJ9Vj2te51zsNgPVXV37EbFGRAjLz",
+    "launched_at_utc": "2026-10-01T11:15:58+00:00",
+    "age_days_at_last_seen": 2.77,
+    "last_seen_utc": "2026-10-04T05:49:13.700071+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 30.0,
+    "boost_sources": [
+      "latest-boosted",
+      "latest-boosted",
+      "latest-boosted"
+    ],
+    "price_usd": 0.0001672,
+    "market_cap": 159062.0,
+    "liquidity_usd": 36506.3,
+    "dexscreener_url": "https://dexscreener.com/solana/6wxtjalnn3gcujajj9vj2te51zsngpvxv37ebfgrajlz",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/6zzzG49KX5nksnqfogs31dwoMYSHaJXkropKbv1QZVga",
+    "added_at_utc": "2026-10-04T05:49:13.700071+00:00"
+  },
+  "AFRAMDTLxA6r4hC9H1umVBk2fakbdqYayTeB6E76kREV": {
+    "token_address": "AFRAMDTLxA6r4hC9H1umVBk2fakbdqYayTeB6E76kREV",
+    "symbol": "BULLISH",
+    "name": "BULLISH TERMINAL",
+    "pair_address": "J9dNzNirJQeyQVwszj4fe8HVUREqhzXP5MhNSPh2F6Sb",
+    "launched_at_utc": "2026-10-03T00:43:07+00:00",
+    "age_days_at_last_seen": 1.21,
+    "last_seen_utc": "2026-10-04T05:49:13.700071+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 2.869e-06,
+    "market_cap": 2869.0,
+    "liquidity_usd": 1542.35,
+    "dexscreener_url": "https://dexscreener.com/solana/j9dnznirjqeyqvwszj4fe8hvureqhzxp5mhnsph2f6sb",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/AFRAMDTLxA6r4hC9H1umVBk2fakbdqYayTeB6E76kREV",
+    "added_at_utc": "2026-10-04T05:49:13.700071+00:00"
+  },
+  "5GDX5fJTQns4arM1J94wjxdA8KXFsV5qW46MLFpHpump": {
+    "token_address": "5GDX5fJTQns4arM1J94wjxdA8KXFsV5qW46MLFpHpump",
+    "symbol": "OMNI",
+    "name": "OMNI",
+    "pair_address": "QVCymnis5qQJEJRZPgbEJnNKrQdNkhJtTFk7v1xqu9D",
+    "launched_at_utc": "2026-10-02T19:00:12+00:00",
+    "age_days_at_last_seen": 1.45,
+    "last_seen_utc": "2026-10-04T05:49:13.700071+00:00",
+    "boost_amount": 50.0,
+    "boost_total_amount": 50.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 0.0003023,
+    "market_cap": 291307.0,
+    "liquidity_usd": 57653.7,
+    "dexscreener_url": "https://dexscreener.com/solana/qvcymnis5qqjejrzpgbejnnkrqdnkhjttfk7v1xqu9d",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/5GDX5fJTQns4arM1J94wjxdA8KXFsV5qW46MLFpHpump",
+    "added_at_utc": "2026-10-04T05:49:13.700071+00:00"
   }
 }
