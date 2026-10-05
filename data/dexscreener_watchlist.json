@@ -1870,16 +1870,17 @@
     "name": "Hallow Inu",
     "pair_address": "FdFVc4hkRieRp9kBKNJpq1FxJYZbqrSi8PRy21MQvR27",
     "launched_at_utc": "2026-09-29T22:35:31+00:00",
-    "age_days_at_last_seen": 5.1,
-    "last_seen_utc": "2026-10-05T01:05:01.363522+00:00",
-    "boost_amount": null,
+    "age_days_at_last_seen": 5.72,
+    "last_seen_utc": "2026-10-05T15:58:29.672019+00:00",
+    "boost_amount": 100.0,
     "boost_total_amount": 100.0,
     "boost_sources": [
+      "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0003908,
-    "market_cap": 381099.0,
-    "liquidity_usd": 65066.04,
+    "price_usd": 0.0004205,
+    "market_cap": 410058.0,
+    "liquidity_usd": 68681.25,
     "dexscreener_url": "https://dexscreener.com/solana/fdfvc4hkrierp9kbknjpq1fxjyzbqrsi8pry21mqvr27",
     "rugcheck_url": "https://rugcheck.xyz/tokens/6iAj2oywQMiD9NeyTcW1S7UtG7e3jSK7Ud5ZJDqJpump",
     "added_at_utc": "2026-09-30T22:37:38.434896+00:00"
@@ -3036,17 +3037,16 @@
     "name": "USEFUL COIN",
     "pair_address": "DWYLZAoxfAbDn9VYwYBNizJCqa6MUarLgewRLJMURwmU",
     "launched_at_utc": "2026-10-04T00:38:53+00:00",
-    "age_days_at_last_seen": 1.26,
-    "last_seen_utc": "2026-10-05T07:00:21.392265+00:00",
+    "age_days_at_last_seen": 1.64,
+    "last_seen_utc": "2026-10-05T15:58:29.672019+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 20.0,
     "boost_sources": [
-      "latest-boosted",
       "latest-boosted"
     ],
-    "price_usd": 0.0001266,
-    "market_cap": 126622.0,
-    "liquidity_usd": 32684.18,
+    "price_usd": 5.732e-05,
+    "market_cap": 57323.0,
+    "liquidity_usd": 21732.02,
     "dexscreener_url": "https://dexscreener.com/solana/dwylzaoxfabdn9vywybnizjcqa6muarlgewrljmurwmu",
     "rugcheck_url": "https://rugcheck.xyz/tokens/GDeKVeV3cs6UCTRDmHqZHugBmUbLLRW7hi9P91XXeLNT",
     "added_at_utc": "2026-10-05T01:05:01.363522+00:00"
@@ -3097,16 +3097,16 @@
     "name": "Agent Cat",
     "pair_address": "HyLTPacbYR4V8yQw5bbWwAETZkjcsRw9xzCbayMnU45o",
     "launched_at_utc": "2026-10-03T22:52:57+00:00",
-    "age_days_at_last_seen": 1.34,
-    "last_seen_utc": "2026-10-05T07:00:21.392265+00:00",
+    "age_days_at_last_seen": 1.71,
+    "last_seen_utc": "2026-10-05T15:58:29.672019+00:00",
     "boost_amount": null,
     "boost_total_amount": 500.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 0.0304,
-    "market_cap": 30178812.0,
-    "liquidity_usd": 548563.19,
+    "price_usd": 0.02543,
+    "market_cap": 25248260.0,
+    "liquidity_usd": 504968.23,
     "dexscreener_url": "https://dexscreener.com/solana/hyltpacbyr4v8yqw5bbwwaetzkjcsrw9xzcbaymnu45o",
     "rugcheck_url": "https://rugcheck.xyz/tokens/CZJfrAmMs5Cz4H22PWzfqTJu5FkP7Q2Vvx1oPVL9pump",
     "added_at_utc": "2026-10-05T01:05:01.363522+00:00"
@@ -3170,5 +3170,47 @@
     "dexscreener_url": "https://dexscreener.com/solana/3weujhlesdjhasbwwqng4rsqlhjagvmlaca7respuwvy",
     "rugcheck_url": "https://rugcheck.xyz/tokens/26uqr1EAd5o9czpp3CxWGRPBgzya2733WC7faQX4mqNA",
     "added_at_utc": "2026-10-05T07:00:21.392265+00:00"
+  },
+  "3iDzTSysnYjVgnbCwRPCRDg7UpQvEXatHhQbvyFgpump": {
+    "token_address": "3iDzTSysnYjVgnbCwRPCRDg7UpQvEXatHhQbvyFgpump",
+    "symbol": "SHIBAMOE",
+    "name": "Shibamoeba Inu",
+    "pair_address": "6YGWhv6mWhixavktXkLx1W61PRL4kUB4ySMfQgqzq5vQ",
+    "launched_at_utc": "2026-10-03T06:01:52+00:00",
+    "age_days_at_last_seen": 2.41,
+    "last_seen_utc": "2026-10-05T15:58:29.672019+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 20.0,
+    "boost_sources": [
+      "latest-boosted",
+      "latest-boosted"
+    ],
+    "price_usd": 3.846e-06,
+    "market_cap": 3846.67,
+    "liquidity_usd": null,
+    "dexscreener_url": "https://dexscreener.com/solana/6ygwhv6mwhixavktxklx1w61prl4kub4ysmfqgqzq5vq",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/3iDzTSysnYjVgnbCwRPCRDg7UpQvEXatHhQbvyFgpump",
+    "added_at_utc": "2026-10-05T15:58:29.672019+00:00"
+  },
+  "APxxh2tWCh95tbHitFJchcdbMsctSBgRS2Zzju9Bpump": {
+    "token_address": "APxxh2tWCh95tbHitFJchcdbMsctSBgRS2Zzju9Bpump",
+    "symbol": "JUGS",
+    "name": "GoalDaddy",
+    "pair_address": "G4ac6W2sJgqojixx27b9ioDa6hW6tGm9ZVRXHSZNjWzm",
+    "launched_at_utc": "2026-10-02T22:13:43+00:00",
+    "age_days_at_last_seen": 2.74,
+    "last_seen_utc": "2026-10-05T15:58:29.672019+00:00",
+    "boost_amount": 50.0,
+    "boost_total_amount": 50.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 0.0002157,
+    "market_cap": 207081.0,
+    "liquidity_usd": 40652.23,
+    "dexscreener_url": "https://dexscreener.com/solana/g4ac6w2sjgqojixx27b9ioda6hw6tgm9zvrxhsznjwzm",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/APxxh2tWCh95tbHitFJchcdbMsctSBgRS2Zzju9Bpump",
+    "added_at_utc": "2026-10-05T15:58:29.672019+00:00"
   }
 }
