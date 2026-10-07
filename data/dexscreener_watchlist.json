@@ -3196,16 +3196,16 @@
     "name": "GoalDaddy",
     "pair_address": "G4ac6W2sJgqojixx27b9ioDa6hW6tGm9ZVRXHSZNjWzm",
     "launched_at_utc": "2026-10-02T22:13:43+00:00",
-    "age_days_at_last_seen": 4.32,
-    "last_seen_utc": "2026-10-07T05:55:56.718934+00:00",
+    "age_days_at_last_seen": 4.6,
+    "last_seen_utc": "2026-10-07T12:32:37.603871+00:00",
     "boost_amount": null,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 0.0001732,
-    "market_cap": 166254.0,
-    "liquidity_usd": 36123.85,
+    "price_usd": 0.0001837,
+    "market_cap": 176376.0,
+    "liquidity_usd": 37088.03,
     "dexscreener_url": "https://dexscreener.com/solana/g4ac6w2sjgqojixx27b9ioda6hw6tgm9zvrxhsznjwzm",
     "rugcheck_url": "https://rugcheck.xyz/tokens/APxxh2tWCh95tbHitFJchcdbMsctSBgRS2Zzju9Bpump",
     "added_at_utc": "2026-10-05T15:58:29.672019+00:00"
@@ -3456,16 +3456,16 @@
     "name": "Frank Ashford",
     "pair_address": "745ATaSSWxvry5qt1XVv9eXuG884hDvNJfvA2o82dNBi",
     "launched_at_utc": "2026-10-04T22:15:56+00:00",
-    "age_days_at_last_seen": 2.32,
-    "last_seen_utc": "2026-10-07T05:55:56.718934+00:00",
+    "age_days_at_last_seen": 2.59,
+    "last_seen_utc": "2026-10-07T12:32:37.603871+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted"
     ],
-    "price_usd": 0.000186,
-    "market_cap": 176811.0,
-    "liquidity_usd": 41234.95,
+    "price_usd": 0.0002525,
+    "market_cap": 240087.0,
+    "liquidity_usd": 48489.24,
     "dexscreener_url": "https://dexscreener.com/solana/745atasswxvry5qt1xvv9exug884hdvnjfva2o82dnbi",
     "rugcheck_url": "https://rugcheck.xyz/tokens/HbPDWSqu8hpVMX6gMjwMDGe5rVgicWo3Qh3Jaojypump",
     "added_at_utc": "2026-10-06T15:55:48.475295+00:00"
@@ -3516,16 +3516,16 @@
     "name": "Russian Plague",
     "pair_address": "FqycVQND5KbRMzQ9EgyUySZpoQp15p1oe5iDpTeEpu2y",
     "launched_at_utc": "2026-10-04T23:09:01+00:00",
-    "age_days_at_last_seen": 2.28,
-    "last_seen_utc": "2026-10-07T05:55:56.718934+00:00",
+    "age_days_at_last_seen": 2.56,
+    "last_seen_utc": "2026-10-07T12:32:37.603871+00:00",
     "boost_amount": null,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 4.685e-06,
-    "market_cap": 4518.0,
-    "liquidity_usd": 4234.12,
+    "price_usd": 5.022e-06,
+    "market_cap": 4843.0,
+    "liquidity_usd": 4444.72,
     "dexscreener_url": "https://dexscreener.com/solana/fqycvqnd5kbrmzq9egyuyszpoqp15p1oe5idpteepu2y",
     "rugcheck_url": "https://rugcheck.xyz/tokens/eyfwpQxwtUgC8Vmvk1daRxeLe3RTA9FrpK1HHrFpump",
     "added_at_utc": "2026-10-06T15:55:48.475295+00:00"
@@ -3796,18 +3796,38 @@
     "name": "Super Kitty",
     "pair_address": "7vXSFb9tUBL4qAEmJ3FXcG6mUzrr2TpnPHwyS9q1EcGS",
     "launched_at_utc": "2026-10-06T02:00:02+00:00",
-    "age_days_at_last_seen": 1.16,
-    "last_seen_utc": "2026-10-07T05:55:56.718934+00:00",
+    "age_days_at_last_seen": 1.44,
+    "last_seen_utc": "2026-10-07T12:32:37.603871+00:00",
     "boost_amount": null,
     "boost_total_amount": 500.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 9.26e-05,
-    "market_cap": 87536.0,
-    "liquidity_usd": 26966.25,
+    "price_usd": 7.916e-05,
+    "market_cap": 74829.0,
+    "liquidity_usd": 24640.18,
     "dexscreener_url": "https://dexscreener.com/solana/7vxsfb9tubl4qaemj3fxcg6muzrr2tpnphwys9q1ecgs",
     "rugcheck_url": "https://rugcheck.xyz/tokens/49gr2VBv3igYyXXVthoozw2bCsHhHaF3WJufgfQrpump",
     "added_at_utc": "2026-10-07T05:55:56.718934+00:00"
+  },
+  "DG4LMuC8hK3KR592csXkbEEM2dJNjUs3SpaeioQdpump": {
+    "token_address": "DG4LMuC8hK3KR592csXkbEEM2dJNjUs3SpaeioQdpump",
+    "symbol": "TUCK",
+    "name": "Dick Tuck",
+    "pair_address": "CriR95aVFQfBsnrv8MSucjW4Tr4GkWxAB1eHbaQhiEts",
+    "launched_at_utc": "2026-10-06T08:50:43+00:00",
+    "age_days_at_last_seen": 1.15,
+    "last_seen_utc": "2026-10-07T12:32:37.603871+00:00",
+    "boost_amount": null,
+    "boost_total_amount": 100.0,
+    "boost_sources": [
+      "top-boosted"
+    ],
+    "price_usd": 3.36e-05,
+    "market_cap": 32370.0,
+    "liquidity_usd": 14597.96,
+    "dexscreener_url": "https://dexscreener.com/solana/crir95avfqfbsnrv8msucjw4tr4gkwxab1ehbaqhiets",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/DG4LMuC8hK3KR592csXkbEEM2dJNjUs3SpaeioQdpump",
+    "added_at_utc": "2026-10-07T12:32:37.603871+00:00"
   }
 }
