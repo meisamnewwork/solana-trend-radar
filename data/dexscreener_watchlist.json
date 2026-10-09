@@ -2734,16 +2734,16 @@
     "name": "Abu Shalab",
     "pair_address": "2qWF4dn1JnqhCpAYJQnKVaKezzuUiG4xdnbnCSK1Pgcw",
     "launched_at_utc": "2026-10-02T22:46:57+00:00",
-    "age_days_at_last_seen": 5.97,
-    "last_seen_utc": "2026-10-08T22:03:18.853196+00:00",
+    "age_days_at_last_seen": 6.43,
+    "last_seen_utc": "2026-10-09T08:59:23.865418+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted"
     ],
-    "price_usd": 0.0001701,
-    "market_cap": 164398.0,
-    "liquidity_usd": 40110.3,
+    "price_usd": 0.0004124,
+    "market_cap": 398454.0,
+    "liquidity_usd": 63986.62,
     "dexscreener_url": "https://dexscreener.com/solana/2qwf4dn1jnqhcpayjqnkvakezzuuig4xdnbncsk1pgcw",
     "rugcheck_url": "https://rugcheck.xyz/tokens/6hTLdzZaaCjmqtn7RtaEMQsCbXT5Pg8q76tRViEGpump",
     "added_at_utc": "2026-10-04T05:49:13.700071+00:00"
@@ -3416,16 +3416,17 @@
     "name": "Gomo App",
     "pair_address": "5a7QurJLARt146JajJYPe5nh6vLyFpN2QrHUSLqbsCZy",
     "launched_at_utc": "2026-10-04T21:49:50+00:00",
-    "age_days_at_last_seen": 4.01,
-    "last_seen_utc": "2026-10-08T22:03:18.853196+00:00",
-    "boost_amount": null,
+    "age_days_at_last_seen": 4.46,
+    "last_seen_utc": "2026-10-09T08:59:23.865418+00:00",
+    "boost_amount": 100.0,
     "boost_total_amount": 100.0,
     "boost_sources": [
+      "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.000799,
-    "market_cap": 663360.0,
-    "liquidity_usd": 85893.43,
+    "price_usd": 0.0007414,
+    "market_cap": 615488.0,
+    "liquidity_usd": 83382.46,
     "dexscreener_url": "https://dexscreener.com/solana/5a7qurjlart146jajjype5nh6vlyfpn2qrhuslqbsczy",
     "rugcheck_url": "https://rugcheck.xyz/tokens/9XKzy4KahcZaGJPJtz1PtqGPB3CiseoBrx7TcQhEpump",
     "added_at_utc": "2026-10-06T09:10:50.103372+00:00"
@@ -3456,16 +3457,16 @@
     "name": "Frank Ashford",
     "pair_address": "745ATaSSWxvry5qt1XVv9eXuG884hDvNJfvA2o82dNBi",
     "launched_at_utc": "2026-10-04T22:15:56+00:00",
-    "age_days_at_last_seen": 4.16,
-    "last_seen_utc": "2026-10-09T02:06:59.283242+00:00",
+    "age_days_at_last_seen": 4.45,
+    "last_seen_utc": "2026-10-09T08:59:23.865418+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted"
     ],
-    "price_usd": 0.0007448,
-    "market_cap": 707986.0,
-    "liquidity_usd": 87652.54,
+    "price_usd": 0.0006257,
+    "market_cap": 594840.0,
+    "liquidity_usd": 81116.77,
     "dexscreener_url": "https://dexscreener.com/solana/745atasswxvry5qt1xvv9exug884hdvnjfva2o82dnbi",
     "rugcheck_url": "https://rugcheck.xyz/tokens/HbPDWSqu8hpVMX6gMjwMDGe5rVgicWo3Qh3Jaojypump",
     "added_at_utc": "2026-10-06T15:55:48.475295+00:00"
@@ -3796,16 +3797,16 @@
     "name": "Super Kitty",
     "pair_address": "7vXSFb9tUBL4qAEmJ3FXcG6mUzrr2TpnPHwyS9q1EcGS",
     "launched_at_utc": "2026-10-06T02:00:02+00:00",
-    "age_days_at_last_seen": 1.71,
-    "last_seen_utc": "2026-10-07T19:04:31.640129+00:00",
-    "boost_amount": null,
-    "boost_total_amount": 500.0,
+    "age_days_at_last_seen": 3.29,
+    "last_seen_utc": "2026-10-09T08:59:23.865418+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
     "boost_sources": [
-      "top-boosted"
+      "latest-boosted"
     ],
-    "price_usd": 3.105e-05,
-    "market_cap": 29353.0,
-    "liquidity_usd": 14678.19,
+    "price_usd": 3.902e-05,
+    "market_cap": 36882.0,
+    "liquidity_usd": 16346.3,
     "dexscreener_url": "https://dexscreener.com/solana/7vxsfb9tubl4qaemj3fxcg6muzrr2tpnphwys9q1ecgs",
     "rugcheck_url": "https://rugcheck.xyz/tokens/49gr2VBv3igYyXXVthoozw2bCsHhHaF3WJufgfQrpump",
     "added_at_utc": "2026-10-07T05:55:56.718934+00:00"
@@ -3996,17 +3997,17 @@
     "name": "Super Intelligence SI276",
     "pair_address": "12jc1DzJpzbCDaKuM4brAKh9jcFry2TLG1FfGsL4ftCG",
     "launched_at_utc": "2026-10-06T19:25:31+00:00",
-    "age_days_at_last_seen": 2.28,
-    "last_seen_utc": "2026-10-09T02:06:59.283242+00:00",
+    "age_days_at_last_seen": 2.57,
+    "last_seen_utc": "2026-10-09T08:59:23.865418+00:00",
     "boost_amount": 100.0,
     "boost_total_amount": 200.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.001656,
-    "market_cap": 1638523.0,
-    "liquidity_usd": 120067.29,
+    "price_usd": 0.001984,
+    "market_cap": 1962730.0,
+    "liquidity_usd": 132660.35,
     "dexscreener_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
     "rugcheck_url": "https://rugcheck.xyz/tokens/HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
     "added_at_utc": "2026-10-07T23:34:32.536629+00:00"
@@ -4239,16 +4240,16 @@
     "name": "ECSTASY",
     "pair_address": "UCWmMumV5XnCimXXYMfW2eRLqzjFyFbs47bThptGrz1",
     "launched_at_utc": "2026-10-07T13:29:14+00:00",
-    "age_days_at_last_seen": 1.53,
-    "last_seen_utc": "2026-10-09T02:06:59.283242+00:00",
+    "age_days_at_last_seen": 1.81,
+    "last_seen_utc": "2026-10-09T08:59:23.865418+00:00",
     "boost_amount": null,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 4.794e-06,
-    "market_cap": 4637.0,
-    "liquidity_usd": 4528.01,
+    "price_usd": 4.29e-06,
+    "market_cap": 4149.0,
+    "liquidity_usd": 4185.73,
     "dexscreener_url": "https://dexscreener.com/solana/ucwmmumv5xncimxxymfw2erlqzjfyfbs47bthptgrz1",
     "rugcheck_url": "https://rugcheck.xyz/tokens/F6EDRhRzXGmkBabhSHdAnqx26XLhG6NCa83wwuqFpump",
     "added_at_utc": "2026-10-08T17:06:45.292660+00:00"
@@ -4372,5 +4373,25 @@
     "dexscreener_url": "https://dexscreener.com/solana/edzpcpkcgfpbubbbv4tech8wa1pgf2ozpjasqggzfrbg",
     "rugcheck_url": "https://rugcheck.xyz/tokens/C8ivuAd8xzEyf7aCKDXF4cD4oYsbamtvdNqiC1oNpump",
     "added_at_utc": "2026-10-09T02:06:59.283242+00:00"
+  },
+  "5kEJNwaYdBwKnMvYe6HB5CNeHFtLhGxYKYC9FEnbpump": {
+    "token_address": "5kEJNwaYdBwKnMvYe6HB5CNeHFtLhGxYKYC9FEnbpump",
+    "symbol": "$MPAD",
+    "name": "MoonPad",
+    "pair_address": "6GfE2bwQCx316vbpekkQF78x6hyrsQpJStgN8NdMyvun",
+    "launched_at_utc": "2026-10-08T03:58:34+00:00",
+    "age_days_at_last_seen": 1.21,
+    "last_seen_utc": "2026-10-09T08:59:23.865418+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 5.746e-06,
+    "market_cap": 5746.28,
+    "liquidity_usd": null,
+    "dexscreener_url": "https://dexscreener.com/solana/6gfe2bwqcx316vbpekkqf78x6hyrsqpjstgn8ndmyvun",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/5kEJNwaYdBwKnMvYe6HB5CNeHFtLhGxYKYC9FEnbpump",
+    "added_at_utc": "2026-10-09T08:59:23.865418+00:00"
   }
 }
