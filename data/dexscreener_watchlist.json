@@ -3419,16 +3419,16 @@
     "name": "Gomo App",
     "pair_address": "5a7QurJLARt146JajJYPe5nh6vLyFpN2QrHUSLqbsCZy",
     "launched_at_utc": "2026-10-04T21:49:50+00:00",
-    "age_days_at_last_seen": 9.12,
-    "last_seen_utc": "2026-10-14T00:48:04.831905+00:00",
+    "age_days_at_last_seen": 9.33,
+    "last_seen_utc": "2026-10-14T05:42:04.107472+00:00",
     "boost_amount": null,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 0.0009306,
-    "market_cap": 772533.0,
-    "liquidity_usd": 97464.12,
+    "price_usd": 0.0008548,
+    "market_cap": 709641.0,
+    "liquidity_usd": 93331.09,
     "dexscreener_url": "https://dexscreener.com/solana/5a7qurjlart146jajjype5nh6vlyfpn2qrhuslqbsczy",
     "rugcheck_url": "https://rugcheck.xyz/tokens/9XKzy4KahcZaGJPJtz1PtqGPB3CiseoBrx7TcQhEpump",
     "added_at_utc": "2026-10-06T09:10:50.103372+00:00"
@@ -3999,16 +3999,18 @@
     "name": "Super Intelligence SI276",
     "pair_address": "12jc1DzJpzbCDaKuM4brAKh9jcFry2TLG1FfGsL4ftCG",
     "launched_at_utc": "2026-10-06T19:25:31+00:00",
-    "age_days_at_last_seen": 7.22,
-    "last_seen_utc": "2026-10-14T00:48:04.831905+00:00",
+    "age_days_at_last_seen": 7.43,
+    "last_seen_utc": "2026-10-14T05:42:04.107472+00:00",
     "boost_amount": 10.0,
-    "boost_total_amount": 10.0,
+    "boost_total_amount": 20.0,
     "boost_sources": [
-      "latest-boosted"
+      "latest-boosted",
+      "latest-boosted",
+      "top-boosted"
     ],
-    "price_usd": 0.0008452,
-    "market_cap": 815010.0,
-    "liquidity_usd": 90052.36,
+    "price_usd": 0.0009611,
+    "market_cap": 926701.0,
+    "liquidity_usd": 96198.33,
     "dexscreener_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
     "rugcheck_url": "https://rugcheck.xyz/tokens/HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
     "added_at_utc": "2026-10-07T23:34:32.536629+00:00"
@@ -5273,17 +5275,17 @@
     "name": "GAME OF CAT",
     "pair_address": "4L3zetW8uZydZrgB4zTPpz4DnJqesAqWSQxw6J9ykZK3",
     "launched_at_utc": "2026-10-10T00:36:55+00:00",
-    "age_days_at_last_seen": 4.01,
-    "last_seen_utc": "2026-10-14T00:48:04.831905+00:00",
+    "age_days_at_last_seen": 4.21,
+    "last_seen_utc": "2026-10-14T05:42:04.107472+00:00",
     "boost_amount": 30.0,
     "boost_total_amount": 30.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 4.911e-05,
-    "market_cap": 47158.0,
-    "liquidity_usd": 17695.48,
+    "price_usd": 4.822e-05,
+    "market_cap": 46306.0,
+    "liquidity_usd": 17495.89,
     "dexscreener_url": "https://dexscreener.com/solana/4l3zetw8uzydzrgb4ztppz4dnjqesaqwsqxw6j9ykzk3",
     "rugcheck_url": "https://rugcheck.xyz/tokens/6KBDqTzgRPpa6xWeS5nPCxPwZHCRu1C51mV3S9r3pump",
     "added_at_utc": "2026-10-12T11:20:30.399342+00:00"
@@ -5680,16 +5682,17 @@
     "name": "The fat wizard cat",
     "pair_address": "4k3MgyawuztfCtPiy3US8hXR6xP6T9sLRo7eM6eSzXuE",
     "launched_at_utc": "2026-10-12T20:09:37+00:00",
-    "age_days_at_last_seen": 1.19,
-    "last_seen_utc": "2026-10-14T00:48:04.831905+00:00",
+    "age_days_at_last_seen": 1.4,
+    "last_seen_utc": "2026-10-14T05:42:04.107472+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
-      "latest-boosted"
+      "latest-boosted",
+      "top-boosted"
     ],
-    "price_usd": 5.026e-05,
-    "market_cap": 47832.0,
-    "liquidity_usd": 18180.95,
+    "price_usd": 1.659e-05,
+    "market_cap": 15793.0,
+    "liquidity_usd": 9625.13,
     "dexscreener_url": "https://dexscreener.com/solana/4k3mgyawuztfctpiy3us8hxr6xp6t9slro7em6eszxue",
     "rugcheck_url": "https://rugcheck.xyz/tokens/8KKHDdWRX3NY9gTgnxCPp2b9nMCofwzxdYzZrXwrpump",
     "added_at_utc": "2026-10-13T21:50:05.744443+00:00"
@@ -5700,17 +5703,16 @@
     "name": "texas cat",
     "pair_address": "CzcFVsc2hQvf1ZwU6ya2vRF7g29aNu4nNrHw7JVVD3Vw",
     "launched_at_utc": "2026-10-08T15:00:06+00:00",
-    "age_days_at_last_seen": 5.41,
-    "last_seen_utc": "2026-10-14T00:48:04.831905+00:00",
-    "boost_amount": 30.0,
+    "age_days_at_last_seen": 5.61,
+    "last_seen_utc": "2026-10-14T05:42:04.107472+00:00",
+    "boost_amount": null,
     "boost_total_amount": 30.0,
     "boost_sources": [
-      "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0001943,
-    "market_cap": 188709.0,
-    "liquidity_usd": 38447.12,
+    "price_usd": 0.0001867,
+    "market_cap": 181287.0,
+    "liquidity_usd": 37564.48,
     "dexscreener_url": "https://dexscreener.com/solana/czcfvsc2hqvf1zwu6ya2vrf7g29anu4nnrhw7jvvd3vw",
     "rugcheck_url": "https://rugcheck.xyz/tokens/BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t",
     "added_at_utc": "2026-10-13T21:50:05.744443+00:00"
@@ -5761,18 +5763,78 @@
     "name": "Bumo-chan",
     "pair_address": "2jEKQ8vicyouWwTGpfFLq61Zu3nnxkJdjsWfqebk1C9a",
     "launched_at_utc": "2026-10-12T17:17:54+00:00",
-    "age_days_at_last_seen": 1.31,
-    "last_seen_utc": "2026-10-14T00:48:04.831905+00:00",
+    "age_days_at_last_seen": 1.52,
+    "last_seen_utc": "2026-10-14T05:42:04.107472+00:00",
     "boost_amount": null,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 9.124e-05,
-    "market_cap": 88895.0,
-    "liquidity_usd": 25568.89,
+    "price_usd": 2.411e-06,
+    "market_cap": 2350.0,
+    "liquidity_usd": 2573.04,
     "dexscreener_url": "https://dexscreener.com/solana/2jekq8vicyouwwtgpfflq61zu3nnxkjdjswfqebk1c9a",
     "rugcheck_url": "https://rugcheck.xyz/tokens/7yg2UT3Ksh7wwmAPAasaKU6SBbakRtzf2eYqjZZzpump",
     "added_at_utc": "2026-10-13T21:50:05.744443+00:00"
+  },
+  "WJJkGmNB6zZB71rHboMzZV9mWsgNBCDrmkPDpbbpump": {
+    "token_address": "WJJkGmNB6zZB71rHboMzZV9mWsgNBCDrmkPDpbbpump",
+    "symbol": "Kairo",
+    "name": "kairo",
+    "pair_address": "AwTgceQya64voHu2Twec7hoNcNNi9dtKXRCHZBG5i2x9",
+    "launched_at_utc": "2026-10-11T10:48:36+00:00",
+    "age_days_at_last_seen": 2.79,
+    "last_seen_utc": "2026-10-14T05:42:04.107472+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 9.906e-05,
+    "market_cap": 94982.0,
+    "liquidity_usd": 29740.07,
+    "dexscreener_url": "https://dexscreener.com/solana/awtgceqya64vohu2twec7honcnni9dtkxrchzbg5i2x9",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/WJJkGmNB6zZB71rHboMzZV9mWsgNBCDrmkPDpbbpump",
+    "added_at_utc": "2026-10-14T05:42:04.107472+00:00"
+  },
+  "EypK6NVBBVEaDCnhuzXdEZv74XA1TURPigbTGXi8pump": {
+    "token_address": "EypK6NVBBVEaDCnhuzXdEZv74XA1TURPigbTGXi8pump",
+    "symbol": "Buster",
+    "name": "Justice For Buster",
+    "pair_address": "AzmoXjevL72cSKw2ZDgHUYQeMrPwjvBwTx81E2S7kaZg",
+    "launched_at_utc": "2026-10-12T19:02:30+00:00",
+    "age_days_at_last_seen": 1.44,
+    "last_seen_utc": "2026-10-14T05:42:04.107472+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 1.111e-05,
+    "market_cap": 11118.17,
+    "liquidity_usd": null,
+    "dexscreener_url": "https://dexscreener.com/solana/azmoxjevl72cskw2zdghuyqemrpwjvbwtx81e2s7kazg",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/EypK6NVBBVEaDCnhuzXdEZv74XA1TURPigbTGXi8pump",
+    "added_at_utc": "2026-10-14T05:42:04.107472+00:00"
+  },
+  "6p16HwXEUeTT6zEicFBZujNvE3jJh6uvgdNNLZP8Yahu": {
+    "token_address": "6p16HwXEUeTT6zEicFBZujNvE3jJh6uvgdNNLZP8Yahu",
+    "symbol": "Yahu",
+    "name": "Lord Big Yahu",
+    "pair_address": "7omoa3iiXc4WiqDtU1NdnMgUQvr3meJU7Ch5w1ZG1St3",
+    "launched_at_utc": "2026-10-09T11:00:17+00:00",
+    "age_days_at_last_seen": 4.78,
+    "last_seen_utc": "2026-10-14T05:42:04.107472+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 4.607e-06,
+    "market_cap": 4404.0,
+    "liquidity_usd": 4070.67,
+    "dexscreener_url": "https://dexscreener.com/solana/7omoa3iixc4wiqdtu1ndnmguqvr3meju7ch5w1zg1st3",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/6p16HwXEUeTT6zEicFBZujNvE3jJh6uvgdNNLZP8Yahu",
+    "added_at_utc": "2026-10-14T05:42:04.107472+00:00"
   }
 }
