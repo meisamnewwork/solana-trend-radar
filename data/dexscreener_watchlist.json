@@ -4000,18 +4000,17 @@
     "name": "Super Intelligence SI276",
     "pair_address": "12jc1DzJpzbCDaKuM4brAKh9jcFry2TLG1FfGsL4ftCG",
     "launched_at_utc": "2026-10-06T19:25:31+00:00",
-    "age_days_at_last_seen": 13.96,
-    "last_seen_utc": "2026-10-20T18:27:16.550047+00:00",
+    "age_days_at_last_seen": 14.1,
+    "last_seen_utc": "2026-10-20T21:47:18.989023+00:00",
     "boost_amount": 100.0,
-    "boost_total_amount": 610.0,
+    "boost_total_amount": 700.0,
     "boost_sources": [
-      "latest-boosted",
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.000779,
-    "market_cap": 750516.0,
-    "liquidity_usd": 90808.8,
+    "price_usd": 0.0006545,
+    "market_cap": 630569.0,
+    "liquidity_usd": 83375.19,
     "dexscreener_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
     "rugcheck_url": "https://rugcheck.xyz/tokens/HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
     "added_at_utc": "2026-10-07T23:34:32.536629+00:00"
@@ -4646,17 +4645,16 @@
     "name": "Cartoon Money",
     "pair_address": "B4Cp45PGifVM5FAXfh6AeV8QZ3eUNQnqGBw7KuC7MHnB",
     "launched_at_utc": "2026-10-06T18:29:53+00:00",
-    "age_days_at_last_seen": 14.0,
-    "last_seen_utc": "2026-10-20T18:27:16.550047+00:00",
-    "boost_amount": 30.0,
+    "age_days_at_last_seen": 14.14,
+    "last_seen_utc": "2026-10-20T21:47:18.989023+00:00",
+    "boost_amount": null,
     "boost_total_amount": 30.0,
     "boost_sources": [
-      "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.001151,
-    "market_cap": 1085913.0,
-    "liquidity_usd": 109716.7,
+    "price_usd": 0.0009857,
+    "market_cap": 929702.0,
+    "liquidity_usd": 101415.65,
     "dexscreener_url": "https://dexscreener.com/solana/b4cp45pgifvm5faxfh6aev8qz3eunqnqgbw7kuc7mhnb",
     "rugcheck_url": "https://rugcheck.xyz/tokens/DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
     "added_at_utc": "2026-10-10T06:08:28.114540+00:00"
@@ -5704,16 +5702,16 @@
     "name": "texas cat",
     "pair_address": "CzcFVsc2hQvf1ZwU6ya2vRF7g29aNu4nNrHw7JVVD3Vw",
     "launched_at_utc": "2026-10-08T15:00:06+00:00",
-    "age_days_at_last_seen": 12.14,
-    "last_seen_utc": "2026-10-20T18:27:16.550047+00:00",
+    "age_days_at_last_seen": 12.28,
+    "last_seen_utc": "2026-10-20T21:47:18.989023+00:00",
     "boost_amount": null,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 0.0003673,
-    "market_cap": 356704.0,
-    "liquidity_usd": 54875.15,
+    "price_usd": 0.000378,
+    "market_cap": 367121.0,
+    "liquidity_usd": 55812.46,
     "dexscreener_url": "https://dexscreener.com/solana/czcfvsc2hqvf1zwu6ya2vrf7g29anu4nnrhw7jvvd3vw",
     "rugcheck_url": "https://rugcheck.xyz/tokens/BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t",
     "added_at_utc": "2026-10-13T21:50:05.744443+00:00"
@@ -7610,5 +7608,66 @@
     "dexscreener_url": "https://dexscreener.com/solana/hxpaghxcjfymadagauditwgvj4k6a4x8ljrsahahe7ky",
     "rugcheck_url": "https://rugcheck.xyz/tokens/5rqqBQSsA5fo2znzmudV3vGD6uKfe7K7wafYS9N9pump",
     "added_at_utc": "2026-10-20T18:27:16.550047+00:00"
+  },
+  "GJLB7Box46h1RQrxcREHGnDcRWDk2pdu8dw2hSwwpump": {
+    "token_address": "GJLB7Box46h1RQrxcREHGnDcRWDk2pdu8dw2hSwwpump",
+    "symbol": "MYSTIC",
+    "name": "Mystic Cat",
+    "pair_address": "FkgicNF4L8w3YHdwPArWDB4cEowY2VeLuZVAVUJV8Uaz",
+    "launched_at_utc": "2026-10-19T18:44:49+00:00",
+    "age_days_at_last_seen": 1.13,
+    "last_seen_utc": "2026-10-20T21:47:18.989023+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted"
+    ],
+    "price_usd": 4.055e-05,
+    "market_cap": 38293.0,
+    "liquidity_usd": 16506.69,
+    "dexscreener_url": "https://dexscreener.com/solana/fkgicnf4l8w3yhdwparwdb4ceowy2veluzvavujv8uaz",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/GJLB7Box46h1RQrxcREHGnDcRWDk2pdu8dw2hSwwpump",
+    "added_at_utc": "2026-10-20T21:47:18.989023+00:00"
+  },
+  "5do8SkQt2nxp3daqXgKcdF7j2BjgiGgxYi5Avkqppump": {
+    "token_address": "5do8SkQt2nxp3daqXgKcdF7j2BjgiGgxYi5Avkqppump",
+    "symbol": "PENELOPE",
+    "name": "Penelope",
+    "pair_address": "CqfkNtZNa8PrXLRey48AnFYCgJvPZDC9gjsvEyDYPes1",
+    "launched_at_utc": "2026-10-17T07:47:53+00:00",
+    "age_days_at_last_seen": 3.58,
+    "last_seen_utc": "2026-10-20T21:47:18.989023+00:00",
+    "boost_amount": 30.0,
+    "boost_total_amount": 30.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 3.795e-06,
+    "market_cap": 3795.47,
+    "liquidity_usd": null,
+    "dexscreener_url": "https://dexscreener.com/solana/cqfkntzna8prxlrey48anfycgjvpzdc9gjsveydypes1",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/5do8SkQt2nxp3daqXgKcdF7j2BjgiGgxYi5Avkqppump",
+    "added_at_utc": "2026-10-20T21:47:18.989023+00:00"
+  },
+  "AcLEFAt6YX7tpC8tafagpfZbVw42aowmiXEJaKN1pump": {
+    "token_address": "AcLEFAt6YX7tpC8tafagpfZbVw42aowmiXEJaKN1pump",
+    "symbol": "Un",
+    "name": "Kim Jong Un",
+    "pair_address": "HeGkKKa8uPXf4pLXga7LTum62Cw6fbNKLWD7waCUumke",
+    "launched_at_utc": "2026-10-19T20:44:30+00:00",
+    "age_days_at_last_seen": 1.04,
+    "last_seen_utc": "2026-10-20T21:47:18.989023+00:00",
+    "boost_amount": null,
+    "boost_total_amount": 500.0,
+    "boost_sources": [
+      "top-boosted"
+    ],
+    "price_usd": 4.419e-06,
+    "market_cap": 4213.0,
+    "liquidity_usd": 3912.64,
+    "dexscreener_url": "https://dexscreener.com/solana/hegkkka8upxf4plxga7ltum62cw6fbnklwd7wacuumke",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/AcLEFAt6YX7tpC8tafagpfZbVw42aowmiXEJaKN1pump",
+    "added_at_utc": "2026-10-20T21:47:18.989023+00:00"
   }
 }
