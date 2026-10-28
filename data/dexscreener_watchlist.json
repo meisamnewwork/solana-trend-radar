@@ -6931,17 +6931,17 @@
     "name": "Infinite Money Glitch",
     "pair_address": "Em6RvzGXhd35pZ7CVUjCTPEnv4jAztScaVHaXBXCBcG7",
     "launched_at_utc": "2026-10-16T15:34:48+00:00",
-    "age_days_at_last_seen": 11.5,
-    "last_seen_utc": "2026-10-28T03:29:06.332464+00:00",
+    "age_days_at_last_seen": 11.77,
+    "last_seen_utc": "2026-10-28T09:57:05.558823+00:00",
     "boost_amount": 50.0,
     "boost_total_amount": 50.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.00299,
-    "market_cap": 2791912.0,
-    "liquidity_usd": 153086.83,
+    "price_usd": 0.003021,
+    "market_cap": 2819612.0,
+    "liquidity_usd": 154669.03,
     "dexscreener_url": "https://dexscreener.com/solana/em6rvzgxhd35pz7cvujctpenv4jaztscavhaxbxcbcg7",
     "rugcheck_url": "https://rugcheck.xyz/tokens/8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
     "added_at_utc": "2026-10-17T23:16:19.023080+00:00"
@@ -8810,8 +8810,8 @@
     "name": "Remus",
     "pair_address": "6JDiSPsWBwcSN8xBa4LNBzMZRikxksbxcto8J3ELR4cG",
     "launched_at_utc": "2026-10-23T23:10:28+00:00",
-    "age_days_at_last_seen": 4.18,
-    "last_seen_utc": "2026-10-28T03:29:06.332464+00:00",
+    "age_days_at_last_seen": 4.45,
+    "last_seen_utc": "2026-10-28T09:57:05.558823+00:00",
     "boost_amount": 100.0,
     "boost_total_amount": 200.0,
     "boost_sources": [
@@ -8819,9 +8819,9 @@
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.001733,
-    "market_cap": 1709323.0,
-    "liquidity_usd": 133589.9,
+    "price_usd": 0.001905,
+    "market_cap": 1879006.0,
+    "liquidity_usd": 141301.51,
     "dexscreener_url": "https://dexscreener.com/solana/6jdispswbwcsn8xba4lnbzmzrikxksbxcto8j3elr4cg",
     "rugcheck_url": "https://rugcheck.xyz/tokens/CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump",
     "added_at_utc": "2026-10-24T23:54:59.167158+00:00"
@@ -8993,16 +8993,17 @@
     "name": "Network Coin",
     "pair_address": "88Jxy6WUYurL7WhZSNYwJvjQwvtDoxT3RUrac1PRgLwu",
     "launched_at_utc": "2026-10-24T21:48:44+00:00",
-    "age_days_at_last_seen": 3.24,
-    "last_seen_utc": "2026-10-28T03:29:06.332464+00:00",
+    "age_days_at_last_seen": 3.51,
+    "last_seen_utc": "2026-10-28T09:57:05.558823+00:00",
     "boost_amount": 10.0,
-    "boost_total_amount": 20.0,
+    "boost_total_amount": 10.0,
     "boost_sources": [
-      "latest-boosted"
+      "latest-boosted",
+      "top-boosted"
     ],
-    "price_usd": 0.0001022,
-    "market_cap": 97173.0,
-    "liquidity_usd": 26227.47,
+    "price_usd": 7.06e-05,
+    "market_cap": 67096.0,
+    "liquidity_usd": 21617.21,
     "dexscreener_url": "https://dexscreener.com/solana/88jxy6wuyurl7whzsnywjvjqwvtdoxt3rurac1prglwu",
     "rugcheck_url": "https://rugcheck.xyz/tokens/8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump",
     "added_at_utc": "2026-10-25T21:57:56.403895+00:00"
@@ -9274,16 +9275,17 @@
     "name": "Big Testicle Coin",
     "pair_address": "9nkE3B5zF3yCDh8YrQrhch4dGNyLYcNBqEB7feo3V9Av",
     "launched_at_utc": "2026-10-25T09:33:00+00:00",
-    "age_days_at_last_seen": 1.79,
-    "last_seen_utc": "2026-10-27T04:28:29.039858+00:00",
-    "boost_amount": null,
-    "boost_total_amount": 50.0,
+    "age_days_at_last_seen": 3.02,
+    "last_seen_utc": "2026-10-28T09:57:05.558823+00:00",
+    "boost_amount": 100.0,
+    "boost_total_amount": 100.0,
     "boost_sources": [
+      "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 3.472e-05,
-    "market_cap": 33359.0,
-    "liquidity_usd": 15391.57,
+    "price_usd": 4.352e-05,
+    "market_cap": 41808.0,
+    "liquidity_usd": 17702.95,
     "dexscreener_url": "https://dexscreener.com/solana/9nke3b5zf3ycdh8yrqrhch4dgnylycnbqeb7feo3v9av",
     "rugcheck_url": "https://rugcheck.xyz/tokens/BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC",
     "added_at_utc": "2026-10-26T23:59:29.623638+00:00"
@@ -9475,17 +9477,17 @@
     "name": "gently used joystick",
     "pair_address": "EWjia2Nk268HowctfiTp8cHQSkeC8Z6aZAhciMkPpXfi",
     "launched_at_utc": "2026-10-26T23:08:10+00:00",
-    "age_days_at_last_seen": 1.18,
-    "last_seen_utc": "2026-10-28T03:29:06.332464+00:00",
+    "age_days_at_last_seen": 1.45,
+    "last_seen_utc": "2026-10-28T09:57:05.558823+00:00",
     "boost_amount": 100.0,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 9.205e-05,
-    "market_cap": 89247.0,
-    "liquidity_usd": 25084.27,
+    "price_usd": 8.069e-05,
+    "market_cap": 78231.0,
+    "liquidity_usd": 23635.71,
     "dexscreener_url": "https://dexscreener.com/solana/ewjia2nk268howctfitp8chqskec8z6azahcimkppxfi",
     "rugcheck_url": "https://rugcheck.xyz/tokens/9uGqEsc5Sh9GBjvLr7jUf7PyY9tDZhiV7kCdyM7Wpump",
     "added_at_utc": "2026-10-27T23:53:46.269867+00:00"
@@ -9536,17 +9538,17 @@
     "name": "Dacity Coin",
     "pair_address": "31viZ3y3pWyiH6dC1G3NpHSDkgtLeX7hUSVQutu2F65S",
     "launched_at_utc": "2026-10-15T13:33:29+00:00",
-    "age_days_at_last_seen": 12.58,
-    "last_seen_utc": "2026-10-28T03:29:06.332464+00:00",
+    "age_days_at_last_seen": 12.85,
+    "last_seen_utc": "2026-10-28T09:57:05.558823+00:00",
     "boost_amount": 100.0,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.009509,
-    "market_cap": 9337940.0,
-    "liquidity_usd": 542316.75,
+    "price_usd": 0.009496,
+    "market_cap": 9325316.0,
+    "liquidity_usd": 546004.6,
     "dexscreener_url": "https://dexscreener.com/solana/31viz3y3pwyih6dc1g3nphsdkgtlex7husvqutu2f65s",
     "rugcheck_url": "https://rugcheck.xyz/tokens/nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump",
     "added_at_utc": "2026-10-28T03:29:06.332464+00:00"
@@ -9570,5 +9572,26 @@
     "dexscreener_url": "https://dexscreener.com/solana/7yvfsjjzheggz3c4qqutxn8zbch3dazfkc6ntxcpuyvd",
     "rugcheck_url": "https://rugcheck.xyz/tokens/6zMfMXjovo7ivtrypSP7YspHm5TcbV4Sh5TwSDgapump",
     "added_at_utc": "2026-10-28T03:29:06.332464+00:00"
+  },
+  "PairUottr9sWf6REag62Y8xeFfrWSpL1F9zikNyqWLV": {
+    "token_address": "PairUottr9sWf6REag62Y8xeFfrWSpL1F9zikNyqWLV",
+    "symbol": "PAIR",
+    "name": "coinpair",
+    "pair_address": "9i7SZrZCDM1wAqNVAtyDUfg5hd7G31jhsWBg7D2J2p2N",
+    "launched_at_utc": "2026-10-23T13:46:41+00:00",
+    "age_days_at_last_seen": 4.84,
+    "last_seen_utc": "2026-10-28T09:57:05.558823+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 4.573e-05,
+    "market_cap": 44199.0,
+    "liquidity_usd": 18258.97,
+    "dexscreener_url": "https://dexscreener.com/solana/9i7szrzcdm1waqnvatydufg5hd7g31jhswbg7d2j2p2n",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/PairUottr9sWf6REag62Y8xeFfrWSpL1F9zikNyqWLV",
+    "added_at_utc": "2026-10-28T09:57:05.558823+00:00"
   }
 }
