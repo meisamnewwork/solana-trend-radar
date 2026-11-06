@@ -8992,17 +8992,18 @@
     "name": "Network Coin",
     "pair_address": "88Jxy6WUYurL7WhZSNYwJvjQwvtDoxT3RUrac1PRgLwu",
     "launched_at_utc": "2026-10-24T21:48:44+00:00",
-    "age_days_at_last_seen": 12.13,
-    "last_seen_utc": "2026-11-06T01:00:16.834309+00:00",
+    "age_days_at_last_seen": 12.42,
+    "last_seen_utc": "2026-11-06T07:53:43.203072+00:00",
     "boost_amount": 10.0,
-    "boost_total_amount": 10.0,
+    "boost_total_amount": 20.0,
     "boost_sources": [
+      "latest-boosted",
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0001309,
-    "market_cap": 117876.0,
-    "liquidity_usd": 30718.62,
+    "price_usd": 0.000164,
+    "market_cap": 147653.0,
+    "liquidity_usd": 34516.72,
     "dexscreener_url": "https://dexscreener.com/solana/88jxy6wuyurl7whzsnywjvjqwvtdoxt3rurac1prglwu",
     "rugcheck_url": "https://rugcheck.xyz/tokens/8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump",
     "added_at_utc": "2026-10-25T21:57:56.403895+00:00"
@@ -9718,15 +9719,17 @@
     "name": "RockheavySi",
     "pair_address": "RbixmiZgkhzaJoBg5YAYwMVHNA5ruABcPTe4kiKsNQZ",
     "launched_at_utc": "2026-10-23T20:20:38+00:00",
-    "age_days_at_last_seen": 6.27,
-    "last_seen_utc": "2026-10-30T02:47:35.414179+00:00",
+    "age_days_at_last_seen": 13.48,
+    "last_seen_utc": "2026-11-06T07:53:43.203072+00:00",
     "boost_amount": 10.0,
-    "boost_total_amount": 10.0,
+    "boost_total_amount": 20.0,
     "boost_sources": [
-      "latest-boosted"
+      "latest-boosted",
+      "latest-boosted",
+      "top-boosted"
     ],
-    "price_usd": 4.275e-06,
-    "market_cap": 4275.6,
+    "price_usd": 5.218e-06,
+    "market_cap": 5218.28,
     "liquidity_usd": null,
     "dexscreener_url": "https://dexscreener.com/solana/rbixmizgkhzajobg5yaywmvhna5ruabcpte4kiksnqz",
     "rugcheck_url": "https://rugcheck.xyz/tokens/2cfhWuibpfehWjwhtqWxQgqfCxqLT4rvT2gJBW1Lpump",
@@ -10936,16 +10939,16 @@
     "name": "GTA6DOG",
     "pair_address": "Fby8NV8FRJZnZriiHUdVANBadTLJfBNT9MVkkN61FoLY",
     "launched_at_utc": "2026-11-02T16:26:26+00:00",
-    "age_days_at_last_seen": 3.36,
-    "last_seen_utc": "2026-11-06T01:00:16.834309+00:00",
+    "age_days_at_last_seen": 3.64,
+    "last_seen_utc": "2026-11-06T07:53:43.203072+00:00",
     "boost_amount": null,
     "boost_total_amount": 500.0,
     "boost_sources": [
       "top-boosted"
     ],
-    "price_usd": 8.74e-05,
-    "market_cap": 73718.0,
-    "liquidity_usd": 24806.2,
+    "price_usd": 7.417e-05,
+    "market_cap": 62560.0,
+    "liquidity_usd": 22719.49,
     "dexscreener_url": "https://dexscreener.com/solana/fby8nv8frjznzriihudvanbadtljfbnt9mvkkn61foly",
     "rugcheck_url": "https://rugcheck.xyz/tokens/8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump",
     "added_at_utc": "2026-11-03T18:01:56.710423+00:00"
@@ -11420,5 +11423,47 @@
     "dexscreener_url": "https://dexscreener.com/solana/3qz27w5pp7h8fdnwnvr89jhqsqxpraszdnukkgjkfh9r",
     "rugcheck_url": "https://rugcheck.xyz/tokens/2UxjHoidyefQxJrCS8qT23JsbqKFcpPCa8ywBYZupump",
     "added_at_utc": "2026-11-05T20:17:46.466829+00:00"
+  },
+  "AmTXahqDdtTPDwT2cHU8XQYJUTD1oGU7NZXeh6smpump": {
+    "token_address": "AmTXahqDdtTPDwT2cHU8XQYJUTD1oGU7NZXeh6smpump",
+    "symbol": "REPDEM26",
+    "name": "Republicans vs Democrats 2026",
+    "pair_address": "npcGqrH333SeVvDjYYV4gQRMAEoscDBhUUkzz9C8GRn",
+    "launched_at_utc": "2026-10-28T02:10:29+00:00",
+    "age_days_at_last_seen": 9.24,
+    "last_seen_utc": "2026-11-06T07:53:43.203072+00:00",
+    "boost_amount": 30.0,
+    "boost_total_amount": 30.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 7.007e-06,
+    "market_cap": 7007.24,
+    "liquidity_usd": null,
+    "dexscreener_url": "https://dexscreener.com/solana/npcgqrh333sevvdjyyv4gqrmaeoscdbhuukzz9c8grn",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/AmTXahqDdtTPDwT2cHU8XQYJUTD1oGU7NZXeh6smpump",
+    "added_at_utc": "2026-11-06T07:53:43.203072+00:00"
+  },
+  "3gPdCDA88Y1Sjy9ELsquTe31MkkxfEjwxSqECk56NsZw": {
+    "token_address": "3gPdCDA88Y1Sjy9ELsquTe31MkkxfEjwxSqECk56NsZw",
+    "symbol": "BMR",
+    "name": "Bitmonero",
+    "pair_address": "6ZjRtED4KzbykvfSAHQXhZARYCj5wNRUU61eiu67A39A",
+    "launched_at_utc": "2026-10-22T16:24:47+00:00",
+    "age_days_at_last_seen": 14.65,
+    "last_seen_utc": "2026-11-06T07:53:43.203072+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 2.819e-05,
+    "market_cap": 28197.0,
+    "liquidity_usd": 7221.82,
+    "dexscreener_url": "https://dexscreener.com/solana/6zjrted4kzbykvfsahqxhzarycj5wnruu61eiu67a39a",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/3gPdCDA88Y1Sjy9ELsquTe31MkkxfEjwxSqECk56NsZw",
+    "added_at_utc": "2026-11-06T07:53:43.203072+00:00"
   }
 }
