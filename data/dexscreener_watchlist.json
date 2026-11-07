@@ -11203,16 +11203,17 @@
     "name": "timmy",
     "pair_address": "6H9LwRBATqsFTXtsiMmZhwncpXTezk1KLSJ4BC7jz1NU",
     "launched_at_utc": "2026-10-31T17:34:52+00:00",
-    "age_days_at_last_seen": 4.46,
-    "last_seen_utc": "2026-11-05T04:38:37.059496+00:00",
+    "age_days_at_last_seen": 6.83,
+    "last_seen_utc": "2026-11-07T13:35:47.654425+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
-      "latest-boosted"
+      "latest-boosted",
+      "top-boosted"
     ],
-    "price_usd": 4.535e-05,
-    "market_cap": 45359.0,
-    "liquidity_usd": 12755.53,
+    "price_usd": 6.348e-05,
+    "market_cap": 63487.0,
+    "liquidity_usd": 13807.13,
     "dexscreener_url": "https://dexscreener.com/solana/6h9lwrbatqsftxtsimmzhwncpxtezk1klsj4bc7jz1nu",
     "rugcheck_url": "https://rugcheck.xyz/tokens/TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw",
     "added_at_utc": "2026-11-04T23:49:51.328365+00:00"
@@ -11572,17 +11573,17 @@
     "name": "State of Leonida",
     "pair_address": "5GxdoPcK2LJ6QYcJ3uvtC37tgsFHma55ULFkufTYe49R",
     "launched_at_utc": "2026-11-05T19:41:14+00:00",
-    "age_days_at_last_seen": 1.46,
-    "last_seen_utc": "2026-11-07T06:45:05.078821+00:00",
+    "age_days_at_last_seen": 1.75,
+    "last_seen_utc": "2026-11-07T13:35:47.654425+00:00",
     "boost_amount": 30.0,
     "boost_total_amount": 30.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0002901,
-    "market_cap": 281637.0,
-    "liquidity_usd": 42318.84,
+    "price_usd": 0.0002628,
+    "market_cap": 255131.0,
+    "liquidity_usd": 40178.35,
     "dexscreener_url": "https://dexscreener.com/solana/5gxdopck2lj6qycj3uvtc37tgsfhma55ulfkuftye49r",
     "rugcheck_url": "https://rugcheck.xyz/tokens/BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump",
     "added_at_utc": "2026-11-07T00:53:28.008842+00:00"
@@ -11607,5 +11608,68 @@
     "dexscreener_url": "https://dexscreener.com/solana/4xzwq44cb8theucawkqt5pe8ekk5humlvdujgaujyks1",
     "rugcheck_url": "https://rugcheck.xyz/tokens/DWYMGCuBvciLMFXZDf9SCnrGFiikUaoukUE22iQcpump",
     "added_at_utc": "2026-11-07T00:53:28.008842+00:00"
+  },
+  "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK": {
+    "token_address": "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK",
+    "symbol": "MAMESUKE",
+    "name": "MAMESUKE",
+    "pair_address": "fMKswmDKwstG3jm6V5PKeXE5LkcW3ny84QrhDCKtc7A",
+    "launched_at_utc": "2026-11-02T11:41:11+00:00",
+    "age_days_at_last_seen": 5.08,
+    "last_seen_utc": "2026-11-07T13:35:47.654425+00:00",
+    "boost_amount": 50.0,
+    "boost_total_amount": 50.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 0.0008453,
+    "market_cap": 845374.0,
+    "liquidity_usd": 110703.41,
+    "dexscreener_url": "https://dexscreener.com/solana/fmkswmdkwstg3jm6v5pkexe5lkcw3ny84qrhdcktc7a",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK",
+    "added_at_utc": "2026-11-07T13:35:47.654425+00:00"
+  },
+  "CLcZdLNMLTip1qdtEwcPUsB8QB4qjsrXWw8Wm2dqpump": {
+    "token_address": "CLcZdLNMLTip1qdtEwcPUsB8QB4qjsrXWw8Wm2dqpump",
+    "symbol": "MIR",
+    "name": "MIRROR",
+    "pair_address": "B36kAFR2U5cjTCmaScv8dZAE6Dmprwj1KeKYmaEB1mf7",
+    "launched_at_utc": "2026-11-04T15:57:51+00:00",
+    "age_days_at_last_seen": 2.9,
+    "last_seen_utc": "2026-11-07T13:35:47.654425+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 1.676e-05,
+    "market_cap": 15866.0,
+    "liquidity_usd": 8768.12,
+    "dexscreener_url": "https://dexscreener.com/solana/b36kafr2u5cjtcmascv8dzae6dmprwj1kekymaeb1mf7",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/CLcZdLNMLTip1qdtEwcPUsB8QB4qjsrXWw8Wm2dqpump",
+    "added_at_utc": "2026-11-07T13:35:47.654425+00:00"
+  },
+  "CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump": {
+    "token_address": "CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump",
+    "symbol": "GTA6K9",
+    "name": "GTA6DOG",
+    "pair_address": "BodZ7ruYsgF65hhZ2aYppRdtxik9onErSKWHPLhrB4xx",
+    "launched_at_utc": "2026-11-06T09:25:17+00:00",
+    "age_days_at_last_seen": 1.17,
+    "last_seen_utc": "2026-11-07T13:35:47.654425+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 0.0001515,
+    "market_cap": 145510.0,
+    "liquidity_usd": 29803.88,
+    "dexscreener_url": "https://dexscreener.com/solana/bodz7ruysgf65hhz2aypprdtxik9onerskwhplhrb4xx",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump",
+    "added_at_utc": "2026-11-07T13:35:47.654425+00:00"
   }
 }
