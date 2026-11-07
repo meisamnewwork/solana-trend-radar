@@ -11573,17 +11573,16 @@
     "name": "State of Leonida",
     "pair_address": "5GxdoPcK2LJ6QYcJ3uvtC37tgsFHma55ULFkufTYe49R",
     "launched_at_utc": "2026-11-05T19:41:14+00:00",
-    "age_days_at_last_seen": 1.94,
-    "last_seen_utc": "2026-11-07T18:18:29.034195+00:00",
-    "boost_amount": 30.0,
+    "age_days_at_last_seen": 2.1,
+    "last_seen_utc": "2026-11-07T22:09:12.290776+00:00",
+    "boost_amount": null,
     "boost_total_amount": 30.0,
     "boost_sources": [
-      "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0004992,
-    "market_cap": 484621.0,
-    "liquidity_usd": 56254.57,
+    "price_usd": 0.0002628,
+    "market_cap": 255148.0,
+    "liquidity_usd": 40723.6,
     "dexscreener_url": "https://dexscreener.com/solana/5gxdopck2lj6qycj3uvtc37tgsfhma55ulfkuftye49r",
     "rugcheck_url": "https://rugcheck.xyz/tokens/BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump",
     "added_at_utc": "2026-11-07T00:53:28.008842+00:00"
@@ -11615,17 +11614,16 @@
     "name": "MAMESUKE",
     "pair_address": "fMKswmDKwstG3jm6V5PKeXE5LkcW3ny84QrhDCKtc7A",
     "launched_at_utc": "2026-11-02T11:41:11+00:00",
-    "age_days_at_last_seen": 5.28,
-    "last_seen_utc": "2026-11-07T18:18:29.034195+00:00",
-    "boost_amount": 50.0,
+    "age_days_at_last_seen": 5.44,
+    "last_seen_utc": "2026-11-07T22:09:12.290776+00:00",
+    "boost_amount": null,
     "boost_total_amount": 50.0,
     "boost_sources": [
-      "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0007531,
-    "market_cap": 753135.0,
-    "liquidity_usd": 98539.85,
+    "price_usd": 0.000428,
+    "market_cap": 428041.0,
+    "liquidity_usd": 56097.27,
     "dexscreener_url": "https://dexscreener.com/solana/fmkswmdkwstg3jm6v5pkexe5lkcw3ny84qrhdcktc7a",
     "rugcheck_url": "https://rugcheck.xyz/tokens/SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK",
     "added_at_utc": "2026-11-07T13:35:47.654425+00:00"
@@ -11691,5 +11689,47 @@
     "dexscreener_url": "https://dexscreener.com/solana/9kgv9jwehydqt6rgmhuocrx1ne267tk4f3jjfr1pk1ds",
     "rugcheck_url": "https://rugcheck.xyz/tokens/7SM67HaeM9gW9MoRycWnXthBsQcxWZznNZ9NtqXypump",
     "added_at_utc": "2026-11-07T18:18:29.034195+00:00"
+  },
+  "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep": {
+    "token_address": "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep",
+    "symbol": "THUG",
+    "name": "THUG LIFE INC",
+    "pair_address": "DJGcy9JUP8tzWyxLrB9GtV1RiJBdwupFSWY57qibt8oq",
+    "launched_at_utc": "2026-11-05T11:28:07+00:00",
+    "age_days_at_last_seen": 2.45,
+    "last_seen_utc": "2026-11-07T22:09:12.290776+00:00",
+    "boost_amount": 30.0,
+    "boost_total_amount": 30.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 0.0001407,
+    "market_cap": 140777.0,
+    "liquidity_usd": 36295.31,
+    "dexscreener_url": "https://dexscreener.com/solana/djgcy9jup8tzwyxlrb9gtv1rijbdwupfswy57qibt8oq",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep",
+    "added_at_utc": "2026-11-07T22:09:12.290776+00:00"
+  },
+  "HGHJCdysTaaYDJKwwQ3UmcodCw9xjpfFDvcShVVBpump": {
+    "token_address": "HGHJCdysTaaYDJKwwQ3UmcodCw9xjpfFDvcShVVBpump",
+    "symbol": "sexcoin",
+    "name": "sexcoin",
+    "pair_address": "FXJKAiwb6B8yy4Q6hyHchdiQfHHquUD4PUvjoYDoHwNJ",
+    "launched_at_utc": "2026-11-06T20:36:39+00:00",
+    "age_days_at_last_seen": 1.06,
+    "last_seen_utc": "2026-11-07T22:09:12.290776+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 9.74e-05,
+    "market_cap": 94081.0,
+    "liquidity_usd": 25913.03,
+    "dexscreener_url": "https://dexscreener.com/solana/fxjkaiwb6b8yy4q6hyhchdiqfhhquud4puvjoydohwnj",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/HGHJCdysTaaYDJKwwQ3UmcodCw9xjpfFDvcShVVBpump",
+    "added_at_utc": "2026-11-07T22:09:12.290776+00:00"
   }
 }
