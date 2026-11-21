@@ -12851,8 +12851,8 @@
     "name": "Christmax",
     "pair_address": "88sMwAF7twYij1PbLT9tSZZGPrdqG17B7j5b54aVuDSD",
     "launched_at_utc": "2026-11-12T22:29:49+00:00",
-    "age_days_at_last_seen": 8.82,
-    "last_seen_utc": "2026-11-21T18:12:55.283896+00:00",
+    "age_days_at_last_seen": 9.03,
+    "last_seen_utc": "2026-11-21T23:16:25.481761+00:00",
     "boost_amount": 30.0,
     "boost_total_amount": 130.0,
     "boost_sources": [
@@ -12860,9 +12860,9 @@
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0003874,
-    "market_cap": 370282.0,
-    "liquidity_usd": 45338.03,
+    "price_usd": 0.0003557,
+    "market_cap": 339968.0,
+    "liquidity_usd": 43289.57,
     "dexscreener_url": "https://dexscreener.com/solana/88smwaf7twyij1pblt9tszzgprdqg17b7j5b54avudsd",
     "rugcheck_url": "https://rugcheck.xyz/tokens/D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump",
     "added_at_utc": "2026-11-13T22:44:37.834682+00:00"
@@ -13266,17 +13266,18 @@
     "name": "PumpMas",
     "pair_address": "B1MJhdYiP3T6UqYhoiPJ1HZA1g3YxJBVFYsNJUCB5CgD",
     "launched_at_utc": "2026-11-14T20:59:58+00:00",
-    "age_days_at_last_seen": 6.88,
-    "last_seen_utc": "2026-11-21T18:12:55.283896+00:00",
+    "age_days_at_last_seen": 7.09,
+    "last_seen_utc": "2026-11-21T23:16:25.481761+00:00",
     "boost_amount": 10.0,
-    "boost_total_amount": 10.0,
+    "boost_total_amount": 20.0,
     "boost_sources": [
+      "latest-boosted",
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0001385,
-    "market_cap": 129937.0,
-    "liquidity_usd": 26323.19,
+    "price_usd": 0.0001287,
+    "market_cap": 120749.0,
+    "liquidity_usd": 25266.71,
     "dexscreener_url": "https://dexscreener.com/solana/b1mjhdyip3t6uqyhoipj1hza1g3yxjbvfysnjucb5cgd",
     "rugcheck_url": "https://rugcheck.xyz/tokens/EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump",
     "added_at_utc": "2026-11-15T23:40:28.822907+00:00"
@@ -13510,17 +13511,17 @@
     "name": "Hogecoin",
     "pair_address": "7CNC9gGegzEfFK8fLXiYUhdtMEeFPQZoND56U1Mxhnor",
     "launched_at_utc": "2026-11-15T06:56:10+00:00",
-    "age_days_at_last_seen": 6.19,
-    "last_seen_utc": "2026-11-21T11:36:35.494327+00:00",
-    "boost_amount": 10.0,
-    "boost_total_amount": 10.0,
+    "age_days_at_last_seen": 6.68,
+    "last_seen_utc": "2026-11-21T23:16:25.481761+00:00",
+    "boost_amount": 30.0,
+    "boost_total_amount": 30.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0007964,
-    "market_cap": 760898.0,
-    "liquidity_usd": 111360.33,
+    "price_usd": 0.0008415,
+    "market_cap": 803953.0,
+    "liquidity_usd": 115028.75,
     "dexscreener_url": "https://dexscreener.com/solana/7cnc9ggegzeffk8flxiyuhdtmeefpqzond56u1mxhnor",
     "rugcheck_url": "https://rugcheck.xyz/tokens/FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump",
     "added_at_utc": "2026-11-17T03:33:45.957448+00:00"
@@ -14568,17 +14569,17 @@
     "name": "Ah Shit, Here We Go Again",
     "pair_address": "D1LXpkFpbQr1YwVgWYQsed93czdz8hA7s9g7yb8LMFfe",
     "launched_at_utc": "2026-11-17T23:38:40+00:00",
-    "age_days_at_last_seen": 3.77,
-    "last_seen_utc": "2026-11-21T18:12:55.283896+00:00",
+    "age_days_at_last_seen": 3.98,
+    "last_seen_utc": "2026-11-21T23:16:25.481761+00:00",
     "boost_amount": 500.0,
     "boost_total_amount": 500.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.002135,
-    "market_cap": 2129074.0,
-    "liquidity_usd": 129075.63,
+    "price_usd": 0.001742,
+    "market_cap": 1736626.0,
+    "liquidity_usd": 118455.28,
     "dexscreener_url": "https://dexscreener.com/solana/d1lxpkfpbqr1ywvgwyqsed93czdz8ha7s9g7yb8lmffe",
     "rugcheck_url": "https://rugcheck.xyz/tokens/Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump",
     "added_at_utc": "2026-11-21T18:12:55.283896+00:00"
@@ -14603,5 +14604,47 @@
     "dexscreener_url": "https://dexscreener.com/solana/apwpjsptwfl3lrhffsmt9bubqxwl1r6xb5hkwcene1g2",
     "rugcheck_url": "https://rugcheck.xyz/tokens/cpdTa5F3Trz2h5vvFfHT7jSM7F5CGvzxfQQRnaQpump",
     "added_at_utc": "2026-11-21T18:12:55.283896+00:00"
+  },
+  "5yK1F7qMGfZdhwMHrLsW2oi3Bqf63PmZpG4uhGywpump": {
+    "token_address": "5yK1F7qMGfZdhwMHrLsW2oi3Bqf63PmZpG4uhGywpump",
+    "symbol": "goge",
+    "name": "goge coin",
+    "pair_address": "GUhf63kmM2Fnvo6xeKejbme4jvFAr6YhUTnxAbR4Mbg6",
+    "launched_at_utc": "2026-11-20T18:28:21+00:00",
+    "age_days_at_last_seen": 1.2,
+    "last_seen_utc": "2026-11-21T23:16:25.481761+00:00",
+    "boost_amount": 30.0,
+    "boost_total_amount": 30.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 6.058e-05,
+    "market_cap": 58273.0,
+    "liquidity_usd": 19339.14,
+    "dexscreener_url": "https://dexscreener.com/solana/guhf63kmm2fnvo6xekejbme4jvfar6yhutnxabr4mbg6",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/5yK1F7qMGfZdhwMHrLsW2oi3Bqf63PmZpG4uhGywpump",
+    "added_at_utc": "2026-11-21T23:16:25.481761+00:00"
+  },
+  "EoV9JQYi57tqjyQbWLdXVarYpEu82FsP8SDnkbFmpump": {
+    "token_address": "EoV9JQYi57tqjyQbWLdXVarYpEu82FsP8SDnkbFmpump",
+    "symbol": "Bust",
+    "name": "BUST",
+    "pair_address": "DxuspRkbwT81ib46q2M5A9YUMo1J1Dnymu6tbMhvHjW9",
+    "launched_at_utc": "2026-11-20T22:36:05+00:00",
+    "age_days_at_last_seen": 1.03,
+    "last_seen_utc": "2026-11-21T23:16:25.481761+00:00",
+    "boost_amount": 30.0,
+    "boost_total_amount": 30.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 7.854e-05,
+    "market_cap": 73974.0,
+    "liquidity_usd": 23911.08,
+    "dexscreener_url": "https://dexscreener.com/solana/dxusprkbwt81ib46q2m5a9yumo1j1dnymu6tbmhvhjw9",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/EoV9JQYi57tqjyQbWLdXVarYpEu82FsP8SDnkbFmpump",
+    "added_at_utc": "2026-11-21T23:16:25.481761+00:00"
   }
 }
