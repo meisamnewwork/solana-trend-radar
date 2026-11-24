@@ -14673,15 +14673,16 @@
     "name": "Viola Snow ",
     "pair_address": "BYT11J2JPQmUv7xqMWZCsNQesdfuuwsVL2uyuwhxBAyx",
     "launched_at_utc": "2026-11-21T02:51:03+00:00",
-    "age_days_at_last_seen": 3.02,
-    "last_seen_utc": "2026-11-24T03:19:22.362541+00:00",
+    "age_days_at_last_seen": 3.47,
+    "last_seen_utc": "2026-11-24T14:03:43.918916+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
-      "latest-boosted"
+      "latest-boosted",
+      "top-boosted"
     ],
-    "price_usd": 5.65e-06,
-    "market_cap": 5650.21,
+    "price_usd": 8.526e-06,
+    "market_cap": 8526.99,
     "liquidity_usd": null,
     "dexscreener_url": "https://dexscreener.com/solana/byt11j2jpqmuv7xqmwzcsnqesdfuuwsvl2uyuwhxbayx",
     "rugcheck_url": "https://rugcheck.xyz/tokens/9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump",
@@ -14714,17 +14715,17 @@
     "name": "Rocket Raccoon",
     "pair_address": "9NLFujwRhgQYXkW2jUkKa1GjVtiBXaty2ad4QrysCkkE",
     "launched_at_utc": "2026-11-21T11:41:08+00:00",
-    "age_days_at_last_seen": 2.65,
-    "last_seen_utc": "2026-11-24T03:19:22.362541+00:00",
+    "age_days_at_last_seen": 3.1,
+    "last_seen_utc": "2026-11-24T14:03:43.918916+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0007842,
-    "market_cap": 758881.0,
-    "liquidity_usd": 79941.77,
+    "price_usd": 0.0007581,
+    "market_cap": 733616.0,
+    "liquidity_usd": 78261.04,
     "dexscreener_url": "https://dexscreener.com/solana/9nlfujwrhgqyxkw2jukka1gjvtibxaty2ad4qrysckke",
     "rugcheck_url": "https://rugcheck.xyz/tokens/6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump",
     "added_at_utc": "2026-11-22T11:45:45.305136+00:00"
@@ -14795,21 +14796,21 @@
   },
   "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump": {
     "token_address": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump",
-    "symbol": "MM",
-    "name": "Milk Money",
+    "symbol": "FIONA",
+    "name": "Fiona the Hippo",
     "pair_address": "AnZQ2WkdREg5v1cLT96mnt63wYysRXPtfnkU8JVFDN2f",
     "launched_at_utc": "2026-11-22T01:52:25+00:00",
-    "age_days_at_last_seen": 1.63,
-    "last_seen_utc": "2026-11-23T17:01:59.636502+00:00",
+    "age_days_at_last_seen": 2.51,
+    "last_seen_utc": "2026-11-24T14:03:43.918916+00:00",
     "boost_amount": 50.0,
     "boost_total_amount": 50.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 9.97,
-    "market_cap": 9975447575.0,
-    "liquidity_usd": 249695.49,
+    "price_usd": 35.048,
+    "market_cap": 34557944883.0,
+    "liquidity_usd": 4475088.75,
     "dexscreener_url": "https://dexscreener.com/solana/anzq2wkdreg5v1clt96mnt63wyysrxptfnku8jvfdn2f",
     "rugcheck_url": "https://rugcheck.xyz/tokens/B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump",
     "added_at_utc": "2026-11-23T17:01:59.636502+00:00"
@@ -14862,17 +14863,17 @@
     "name": "NO HUMAN",
     "pair_address": "FBqXu5ezPbBv4vKTFD83QPerYGcotcvqzrtAbSXHQs2m",
     "launched_at_utc": "2026-11-21T15:20:16+00:00",
-    "age_days_at_last_seen": 2.07,
-    "last_seen_utc": "2026-11-23T17:01:59.636502+00:00",
+    "age_days_at_last_seen": 2.95,
+    "last_seen_utc": "2026-11-24T14:03:43.918916+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.001104,
-    "market_cap": 1094806.0,
-    "liquidity_usd": 80601.68,
+    "price_usd": 0.00346,
+    "market_cap": 3428699.0,
+    "liquidity_usd": 140774.73,
     "dexscreener_url": "https://dexscreener.com/solana/fbqxu5ezpbbv4vktfd83qperygcotcvqzrtabsxhqs2m",
     "rugcheck_url": "https://rugcheck.xyz/tokens/Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump",
     "added_at_utc": "2026-11-23T17:01:59.636502+00:00"
@@ -14883,17 +14884,17 @@
     "name": "Umbra Cash",
     "pair_address": "4h7R5JzaQ6PgNjFuD12AeUQJRQYgwz2YhPSrA6sh1Rxt",
     "launched_at_utc": "2026-11-22T11:15:03+00:00",
-    "age_days_at_last_seen": 1.67,
-    "last_seen_utc": "2026-11-24T03:19:22.362541+00:00",
+    "age_days_at_last_seen": 2.12,
+    "last_seen_utc": "2026-11-24T14:03:43.918916+00:00",
     "boost_amount": 100.0,
     "boost_total_amount": 100.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0002039,
-    "market_cap": 203183.0,
-    "liquidity_usd": 37430.25,
+    "price_usd": 2.776e-06,
+    "market_cap": 2766.0,
+    "liquidity_usd": 3468.63,
     "dexscreener_url": "https://dexscreener.com/solana/4h7r5jzaq6pgnjfud12aeuqjrqygwz2yhpsra6sh1rxt",
     "rugcheck_url": "https://rugcheck.xyz/tokens/7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump",
     "added_at_utc": "2026-11-23T17:01:59.636502+00:00"
@@ -14982,5 +14983,47 @@
     "dexscreener_url": "https://dexscreener.com/solana/7cqdt9g6uqaz4hjtdnoxmfifsgl8aak449kkfbdwkzcw",
     "rugcheck_url": "https://rugcheck.xyz/tokens/4fvx4so9U7fT7bS6sdmkC2GzVaq4gdTAjdEW27SJpump",
     "added_at_utc": "2026-11-24T03:19:22.362541+00:00"
+  },
+  "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump": {
+    "token_address": "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump",
+    "symbol": "cateball",
+    "name": "cateball",
+    "pair_address": "EkEXwkZqweA8rbv31KwjbYzSE3SoSgez1VrYkvu6uY2w",
+    "launched_at_utc": "2026-11-22T09:06:49+00:00",
+    "age_days_at_last_seen": 2.21,
+    "last_seen_utc": "2026-11-24T14:03:43.918916+00:00",
+    "boost_amount": 30.0,
+    "boost_total_amount": 30.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 0.001215,
+    "market_cap": 1199033.0,
+    "liquidity_usd": 81972.8,
+    "dexscreener_url": "https://dexscreener.com/solana/ekexwkzqwea8rbv31kwjbyzse3sosgez1vrykvu6uy2w",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump",
+    "added_at_utc": "2026-11-24T14:03:43.918916+00:00"
+  },
+  "7zeVHs7n7TFQf9X86MZNzBcEEVTnyyECeNbAghL3pump": {
+    "token_address": "7zeVHs7n7TFQf9X86MZNzBcEEVTnyyECeNbAghL3pump",
+    "symbol": "GTGOAT",
+    "name": "Grand Theft Goat",
+    "pair_address": "CBg4kBMT8cxtsC8zp2Dyhbavu9akerdUECe9WNVrYJXY",
+    "launched_at_utc": "2026-11-22T08:21:20+00:00",
+    "age_days_at_last_seen": 2.24,
+    "last_seen_utc": "2026-11-24T14:03:43.918916+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 4.64e-06,
+    "market_cap": 4640.53,
+    "liquidity_usd": null,
+    "dexscreener_url": "https://dexscreener.com/solana/cbg4kbmt8cxtsc8zp2dyhbavu9akerduece9wnvryjxy",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/7zeVHs7n7TFQf9X86MZNzBcEEVTnyyECeNbAghL3pump",
+    "added_at_utc": "2026-11-24T14:03:43.918916+00:00"
   }
 }
