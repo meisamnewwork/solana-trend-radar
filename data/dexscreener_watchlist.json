@@ -13265,17 +13265,17 @@
     "name": "PumpMas",
     "pair_address": "B1MJhdYiP3T6UqYhoiPJ1HZA1g3YxJBVFYsNJUCB5CgD",
     "launched_at_utc": "2026-11-14T20:59:58+00:00",
-    "age_days_at_last_seen": 11.49,
-    "last_seen_utc": "2026-11-26T08:42:05.846316+00:00",
+    "age_days_at_last_seen": 11.9,
+    "last_seen_utc": "2026-11-26T18:38:35.505507+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 9.835e-05,
-    "market_cap": 92235.0,
-    "liquidity_usd": 22264.33,
+    "price_usd": 9.729e-05,
+    "market_cap": 91235.0,
+    "liquidity_usd": 22247.31,
     "dexscreener_url": "https://dexscreener.com/solana/b1mjhdyip3t6uqyhoipj1hza1g3yxjbvfysnjucb5cgd",
     "rugcheck_url": "https://rugcheck.xyz/tokens/EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump",
     "added_at_utc": "2026-11-15T23:40:28.822907+00:00"
@@ -14714,17 +14714,17 @@
     "name": "Rocket Raccoon",
     "pair_address": "9NLFujwRhgQYXkW2jUkKa1GjVtiBXaty2ad4QrysCkkE",
     "launched_at_utc": "2026-11-21T11:41:08+00:00",
-    "age_days_at_last_seen": 4.88,
-    "last_seen_utc": "2026-11-26T08:42:05.846316+00:00",
+    "age_days_at_last_seen": 5.29,
+    "last_seen_utc": "2026-11-26T18:38:35.505507+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0007703,
-    "market_cap": 745465.0,
-    "liquidity_usd": 83846.55,
+    "price_usd": 0.0008383,
+    "market_cap": 811274.0,
+    "liquidity_usd": 87634.86,
     "dexscreener_url": "https://dexscreener.com/solana/9nlfujwrhgqyxkw2jukka1gjvtibxaty2ad4qrysckke",
     "rugcheck_url": "https://rugcheck.xyz/tokens/6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump",
     "added_at_utc": "2026-11-22T11:45:45.305136+00:00"
@@ -15236,16 +15236,17 @@
     "name": "Santa Coin",
     "pair_address": "4P4WjRDEihtBCa4M1Fnrvf1f9JuLspqzo1smCR1Mnr7v",
     "launched_at_utc": "2026-11-24T17:12:22+00:00",
-    "age_days_at_last_seen": 1.65,
-    "last_seen_utc": "2026-11-26T08:42:05.846316+00:00",
-    "boost_amount": null,
-    "boost_total_amount": 100.0,
+    "age_days_at_last_seen": 2.06,
+    "last_seen_utc": "2026-11-26T18:38:35.505507+00:00",
+    "boost_amount": 50.0,
+    "boost_total_amount": 50.0,
     "boost_sources": [
+      "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0001834,
-    "market_cap": 183480.0,
-    "liquidity_usd": 24591.67,
+    "price_usd": 0.0001994,
+    "market_cap": 199446.0,
+    "liquidity_usd": 25835.16,
     "dexscreener_url": "https://dexscreener.com/solana/4p4wjrdeihtbca4m1fnrvf1f9julspqzo1smcr1mnr7v",
     "rugcheck_url": "https://rugcheck.xyz/tokens/CcpN5RXTEjbRqbtuHoxyiMZorzsghbfpeyYQjSvTgS27",
     "added_at_utc": "2026-11-26T00:16:59.829280+00:00"
@@ -15256,17 +15257,17 @@
     "name": "Legendary",
     "pair_address": "czewDLamSPb89EqxWU37M1ddK7kGeAcDwVWKHAkmwtM",
     "launched_at_utc": "2026-11-14T09:48:16+00:00",
-    "age_days_at_last_seen": 11.95,
-    "last_seen_utc": "2026-11-26T08:42:05.846316+00:00",
+    "age_days_at_last_seen": 12.37,
+    "last_seen_utc": "2026-11-26T18:38:35.505507+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 8.947e-07,
-    "market_cap": 89473.0,
-    "liquidity_usd": 24820.85,
+    "price_usd": 8.857e-07,
+    "market_cap": 88576.0,
+    "liquidity_usd": 24768.99,
     "dexscreener_url": "https://dexscreener.com/solana/czewdlamspb89eqxwu37m1ddk7kgeacdwvwkhakmwtm",
     "rugcheck_url": "https://rugcheck.xyz/tokens/GPiHbgbvWbZHKQiVf1v8AupAuST3mqSv3zb2SBJULGND",
     "added_at_utc": "2026-11-26T08:42:05.846316+00:00"
@@ -15291,5 +15292,47 @@
     "dexscreener_url": "https://dexscreener.com/solana/f6jsqhtyudgyl6d6uu9yekpizkmtsu5lepacst7e6ihu",
     "rugcheck_url": "https://rugcheck.xyz/tokens/68EB2XWzg6ZMUg1VXgWEHgx4WP1X1JG8mWY4SB86pump",
     "added_at_utc": "2026-11-26T08:42:05.846316+00:00"
+  },
+  "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump": {
+    "token_address": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump",
+    "symbol": "JIMMY",
+    "name": "Jimmy Rustles",
+    "pair_address": "FnHWfV49ywCtGCDTyf34AVN8BiXxcgXUKqLctkrkP1gQ",
+    "launched_at_utc": "2026-11-23T21:11:11+00:00",
+    "age_days_at_last_seen": 2.89,
+    "last_seen_utc": "2026-11-26T18:38:35.505507+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 0.0008055,
+    "market_cap": 752211.0,
+    "liquidity_usd": 80962.1,
+    "dexscreener_url": "https://dexscreener.com/solana/fnhwfv49ywctgcdtyf34avn8bixxcgxukqlctkrkp1gq",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump",
+    "added_at_utc": "2026-11-26T18:38:35.505507+00:00"
+  },
+  "2rRPzRejo3z8mEopq6Pm5VbTZCQCCNKiRZeKtcfLpump": {
+    "token_address": "2rRPzRejo3z8mEopq6Pm5VbTZCQCCNKiRZeKtcfLpump",
+    "symbol": "GROKIRA",
+    "name": "Grokira",
+    "pair_address": "HAwNdQibdBc5ieimrHgeZE5eQrkGgk1EY9HevP9RK71o",
+    "launched_at_utc": "2026-11-11T19:10:46+00:00",
+    "age_days_at_last_seen": 14.98,
+    "last_seen_utc": "2026-11-26T18:38:35.505507+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 1.134e-05,
+    "market_cap": 10624.0,
+    "liquidity_usd": 6324.65,
+    "dexscreener_url": "https://dexscreener.com/solana/hawndqibdbc5ieimrhgeze5eqrkggk1ey9hevp9rk71o",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/2rRPzRejo3z8mEopq6Pm5VbTZCQCCNKiRZeKtcfLpump",
+    "added_at_utc": "2026-11-26T18:38:35.505507+00:00"
   }
 }
