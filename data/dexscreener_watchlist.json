@@ -13265,17 +13265,17 @@
     "name": "PumpMas",
     "pair_address": "B1MJhdYiP3T6UqYhoiPJ1HZA1g3YxJBVFYsNJUCB5CgD",
     "launched_at_utc": "2026-11-14T20:59:58+00:00",
-    "age_days_at_last_seen": 12.21,
-    "last_seen_utc": "2026-11-27T01:55:38.757518+00:00",
+    "age_days_at_last_seen": 12.56,
+    "last_seen_utc": "2026-11-27T10:26:33.151438+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0001158,
-    "market_cap": 108639.0,
-    "liquidity_usd": 24429.08,
+    "price_usd": 0.0001145,
+    "market_cap": 107414.0,
+    "liquidity_usd": 24613.77,
     "dexscreener_url": "https://dexscreener.com/solana/b1mjhdyip3t6uqyhoipj1hza1g3yxjbvfysnjucb5cgd",
     "rugcheck_url": "https://rugcheck.xyz/tokens/EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump",
     "added_at_utc": "2026-11-15T23:40:28.822907+00:00"
@@ -14714,17 +14714,17 @@
     "name": "Rocket Raccoon",
     "pair_address": "9NLFujwRhgQYXkW2jUkKa1GjVtiBXaty2ad4QrysCkkE",
     "launched_at_utc": "2026-11-21T11:41:08+00:00",
-    "age_days_at_last_seen": 5.59,
-    "last_seen_utc": "2026-11-27T01:55:38.757518+00:00",
+    "age_days_at_last_seen": 5.95,
+    "last_seen_utc": "2026-11-27T10:26:33.151438+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0008455,
-    "market_cap": 818244.0,
-    "liquidity_usd": 88315.83,
+    "price_usd": 0.0008512,
+    "market_cap": 823758.0,
+    "liquidity_usd": 89342.79,
     "dexscreener_url": "https://dexscreener.com/solana/9nlfujwrhgqyxkw2jukka1gjvtibxaty2ad4qrysckke",
     "rugcheck_url": "https://rugcheck.xyz/tokens/6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump",
     "added_at_utc": "2026-11-22T11:45:45.305136+00:00"
@@ -15342,17 +15342,17 @@
     "name": "Snowball",
     "pair_address": "AirCDeU4yL6hjuina65mtWAKzmex7STKZSiNMYZhzKt2",
     "launched_at_utc": "2026-11-25T18:22:09+00:00",
-    "age_days_at_last_seen": 1.31,
-    "last_seen_utc": "2026-11-27T01:55:38.757518+00:00",
+    "age_days_at_last_seen": 1.67,
+    "last_seen_utc": "2026-11-27T10:26:33.151438+00:00",
     "boost_amount": 10.0,
     "boost_total_amount": 10.0,
     "boost_sources": [
       "latest-boosted",
       "top-boosted"
     ],
-    "price_usd": 0.0004905,
-    "market_cap": 490564.0,
-    "liquidity_usd": 54993.01,
+    "price_usd": 0.0008548,
+    "market_cap": 854880.0,
+    "liquidity_usd": 75243.18,
     "dexscreener_url": "https://dexscreener.com/solana/aircdeu4yl6hjuina65mtwakzmex7stkzsinmyzhzkt2",
     "rugcheck_url": "https://rugcheck.xyz/tokens/9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump",
     "added_at_utc": "2026-11-27T01:55:38.757518+00:00"
@@ -15377,5 +15377,47 @@
     "dexscreener_url": "https://dexscreener.com/solana/3mscrdy7petwgewpc89dmpzz9v7wgqrpy3fksvpqd3xk",
     "rugcheck_url": "https://rugcheck.xyz/tokens/2Fm3qAJQ4s9Hcem4rLUsrfscFBYuMzpmmPbJiSADpump",
     "added_at_utc": "2026-11-27T01:55:38.757518+00:00"
+  },
+  "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump": {
+    "token_address": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+    "symbol": "WW",
+    "name": "The Wizarding World ",
+    "pair_address": "pJxgZmuDyERjCvi1eTNfKCyHHmnnpGwuTLqTf63p6oa",
+    "launched_at_utc": "2026-11-18T16:26:21+00:00",
+    "age_days_at_last_seen": 8.75,
+    "last_seen_utc": "2026-11-27T10:26:33.151438+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 0.0006542,
+    "market_cap": 613697.0,
+    "liquidity_usd": 61441.34,
+    "dexscreener_url": "https://dexscreener.com/solana/pjxgzmudyerjcvi1etnfkcyhhmnnpgwutlqtf63p6oa",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+    "added_at_utc": "2026-11-27T10:26:33.151438+00:00"
+  },
+  "6W3H5nEzuLUpTbcMrhRfMiDPCZ4QuBmZPBkeAMzypump": {
+    "token_address": "6W3H5nEzuLUpTbcMrhRfMiDPCZ4QuBmZPBkeAMzypump",
+    "symbol": "wizardcat",
+    "name": "Wizard Cat",
+    "pair_address": "3NNdU4sniU59ZoPc1JeBZ2SPDxCxzeA5ffG5NwKzdach",
+    "launched_at_utc": "2026-11-24T19:52:07+00:00",
+    "age_days_at_last_seen": 2.61,
+    "last_seen_utc": "2026-11-27T10:26:33.151438+00:00",
+    "boost_amount": 10.0,
+    "boost_total_amount": 10.0,
+    "boost_sources": [
+      "latest-boosted",
+      "top-boosted"
+    ],
+    "price_usd": 5.448e-05,
+    "market_cap": 51666.0,
+    "liquidity_usd": 16219.76,
+    "dexscreener_url": "https://dexscreener.com/solana/3nndu4sniu59zopc1jebz2spdxcxzea5ffg5nwkzdach",
+    "rugcheck_url": "https://rugcheck.xyz/tokens/6W3H5nEzuLUpTbcMrhRfMiDPCZ4QuBmZPBkeAMzypump",
+    "added_at_utc": "2026-11-27T10:26:33.151438+00:00"
   }
 }
